@@ -1,0 +1,69 @@
+> id_8978
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   NSRDNSGDHLV  11
+> id_8986
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   NSRDTNGYRPV  11
+> id_8984
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   NSRDSSGNHWV  11
+> id_8983
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   NSRDSSGNHPV  11
+> id_8980
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   NSRDNSGNHWV  11
+> id_8985
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   NSRDSSSNHLV  11
+> id_8982
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   NSRDSSGDHPV  11
+> id_8979
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   NSRDNSGNHPV  11
+> id_8961
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   NSADSSGNHVV  11
+> id_11973
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   SSRDSSGNHWV  11
+> id_1307
+Query  2  SRDTSGYHL  10
+Sbjct  1  ARDSSGWHW  9
+> id_8981
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   NSRDSSANHQV  11
+> id_2831
+Query  2   SRDTSGYHLV  11
+Sbjct  2   SRDSSGNHPV  11
+> id_2400
+Query  2   SRDTSGYH  9
+Sbjct  11  SRDPSGYN  18
+> id_8977
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   NSRDNIGNHQV  11
+> id_11972
+Query  1   NSRDTSGYHLV  11
+Sbjct  1   SSRDRSGNHVL  11
+> id_6280
+Query  2  SRDTSGYH  9
+Sbjct  1  AKDTSGWY  8
+> id_1208
+Query  2  SRDTSGY  8
+Sbjct  1  ARDNSGY  7
+> id_1084
+Query  4   DTSGYH  9
+Sbjct  6   DTSGYY  11
+> id_11764
+Query  2  SRDTSGYH  9
+Sbjct  1  SRDVGGYN  8
+> id_1428
+Query  2   SRDTSGY  8
+Sbjct  6   SRDNSGF  12
+> id_1308
+Query  2  SRDTSGY  8
+Sbjct  1  ARDSSGW  7
+> id_1498
+Query  4   DTSGYHL  10
+Sbjct  10  DSSGYRL  16

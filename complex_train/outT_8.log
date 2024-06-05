@@ -1,0 +1,1001 @@
+Converting SMILES to graph: 1/500
+7kpbAC_antigen.pdb 7kpbHL_antibody.pdb
+Converting SMILES to graph: 2/500
+7kpgS_antigen.pdb 7kpgHL_antibody.pdb
+Converting SMILES to graph: 3/500
+7kpjE_antigen.pdb 7kpjAB_antibody.pdb
+Converting SMILES to graph: 4/500
+7kq7B_antigen.pdb 7kq7HL_antibody.pdb
+Converting SMILES to graph: 5/500
+7kqbC_antigen.pdb 7kqbKJ_antibody.pdb
+Converting SMILES to graph: 6/500
+7kqeC_antigen.pdb 7kqeJM_antibody.pdb
+Converting SMILES to graph: 7/500
+7kqgA_antigen.pdb 7kqgBC_antibody.pdb
+Converting SMILES to graph: 8/500
+7kqhB_antigen.pdb 7kqhHL_antibody.pdb
+Converting SMILES to graph: 9/500
+7kqiB_antigen.pdb 7kqiAC_antibody.pdb
+Converting SMILES to graph: 10/500
+7kqkP_antigen.pdb 7kqkHL_antibody.pdb
+Converting SMILES to graph: 11/500
+7kqlT_antigen.pdb 7kqlHL_antibody.pdb
+Converting SMILES to graph: 12/500
+7kr5FE_antigen.pdb 7kr5OP_antibody.pdb
+Converting SMILES to graph: 13/500
+7kraA_antigen.pdb 7kraIJ_antibody.pdb
+Converting SMILES to graph: 14/500
+7ks9B_antigen.pdb 7ks9HL_antibody.pdb
+Converting SMILES to graph: 15/500
+7ksgA_antigen.pdb 7ksgD_antibody.pdb
+Converting SMILES to graph: 16/500
+7ktxA_antigen.pdb 7ktxIJ_antibody.pdb
+Converting SMILES to graph: 17/500
+7kxjA_antigen.pdb 7kxjHL_antibody.pdb
+Converting SMILES to graph: 18/500
+7kxkB_antigen.pdb 7kxkIM_antibody.pdb
+Converting SMILES to graph: 19/500
+7kylZ_antigen.pdb 7kylXY_antibody.pdb
+Converting SMILES to graph: 20/500
+7kyoB_antigen.pdb 7kyoHL_antibody.pdb
+Converting SMILES to graph: 21/500
+7kzbC_antigen.pdb 7kzbAB_antibody.pdb
+Converting SMILES to graph: 22/500
+7kzxB_antigen.pdb 7kzxDC_antibody.pdb
+Converting SMILES to graph: 23/500
+7kzzA_antigen.pdb 7kzzDC_antibody.pdb
+Converting SMILES to graph: 24/500
+7l02A_antigen.pdb 7l02MK_antibody.pdb
+Converting SMILES to graph: 25/500
+7l0lEC_antigen.pdb 7l0lGJ_antibody.pdb
+Converting SMILES to graph: 26/500
+7l0nS_antigen.pdb 7l0nMN_antibody.pdb
+Converting SMILES to graph: 27/500
+7l1uAB_antigen.pdb 7l1uHh_antibody.pdb
+Converting SMILES to graph: 28/500
+7l1vAB_antigen.pdb 7l1vHh_antibody.pdb
+Converting SMILES to graph: 29/500
+7l2cA_antigen.pdb 7l2cHL_antibody.pdb
+Converting SMILES to graph: 30/500
+7l2dA_antigen.pdb 7l2dHL_antibody.pdb
+Converting SMILES to graph: 31/500
+7l2eA_antigen.pdb 7l2eHL_antibody.pdb
+Converting SMILES to graph: 32/500
+7l2fA_antigen.pdb 7l2fHL_antibody.pdb
+Converting SMILES to graph: 33/500
+7l3nBC_antigen.pdb 7l3nDE_antibody.pdb
+Converting SMILES to graph: 34/500
+7l56A_antigen.pdb 7l56HL_antibody.pdb
+Converting SMILES to graph: 35/500
+7l57B_antigen.pdb 7l57HL_antibody.pdb
+Converting SMILES to graph: 36/500
+7l58B_antigen.pdb 7l58HL_antibody.pdb
+Converting SMILES to graph: 37/500
+7l5bA_antigen.pdb 7l5bHL_antibody.pdb
+Converting SMILES to graph: 38/500
+7l5jA_antigen.pdb 7l5jYX_antibody.pdb
+Converting SMILES to graph: 39/500
+7l6vA_antigen.pdb 7l6vD_antibody.pdb
+Converting SMILES to graph: 40/500
+7l7dE_antigen.pdb 7l7dHL_antibody.pdb
+Converting SMILES to graph: 41/500
+7l7eb_antigen.pdb 7l7eTU_antibody.pdb
+Converting SMILES to graph: 42/500
+7l7rG_antigen.pdb 7l7rBA_antibody.pdb
+Converting SMILES to graph: 43/500
+7l8pC_antigen.pdb 7l8pEF_antibody.pdb
+Converting SMILES to graph: 44/500
+7la4A_antigen.pdb 7la4HL_antibody.pdb
+Converting SMILES to graph: 45/500
+7laaA_antigen.pdb 7laaHL_antibody.pdb
+Converting SMILES to graph: 46/500
+7labB_antigen.pdb 7labYX_antibody.pdb
+Converting SMILES to graph: 47/500
+7lbeA_antigen.pdb 7lbeHG_antibody.pdb
+Converting SMILES to graph: 48/500
+7lbfA_antigen.pdb 7lbfFE_antibody.pdb
+Converting SMILES to graph: 49/500
+7lbgA_antigen.pdb 7lbgFE_antibody.pdb
+Converting SMILES to graph: 50/500
+7lcnA_antigen.pdb 7lcnBD_antibody.pdb
+Converting SMILES to graph: 51/500
+7lcvC_antigen.pdb 7lcvAB_antibody.pdb
+Converting SMILES to graph: 52/500
+7ld1C_antigen.pdb 7ld1MN_antibody.pdb
+Converting SMILES to graph: 53/500
+7lddD_antigen.pdb 7lddKJ_antibody.pdb
+Converting SMILES to graph: 54/500
+7ldeD_antigen.pdb 7ldeKJ_antibody.pdb
+Converting SMILES to graph: 55/500
+7ldjC_antigen.pdb 7ldjG_antibody.pdb
+Converting SMILES to graph: 56/500
+7lexJ_antigen.pdb 7lexRP_antibody.pdb
+Converting SMILES to graph: 57/500
+7leyA_antigen.pdb 7leyDE_antibody.pdb
+Converting SMILES to graph: 58/500
+7lezN_antigen.pdb 7lezRP_antibody.pdb
+Converting SMILES to graph: 59/500
+7lf0C_antigen.pdb 7lf0FH_antibody.pdb
+Converting SMILES to graph: 60/500
+7lf1C_antigen.pdb 7lf1FH_antibody.pdb
+Converting SMILES to graph: 61/500
+7lf2C_antigen.pdb 7lf2GI_antibody.pdb
+Converting SMILES to graph: 62/500
+7lf7K_antigen.pdb 7lf7HL_antibody.pdb
+Converting SMILES to graph: 63/500
+7lf8A_antigen.pdb 7lf8HL_antibody.pdb
+Converting SMILES to graph: 64/500
+7lfaC_antigen.pdb 7lfaHL_antibody.pdb
+Converting SMILES to graph: 65/500
+7lfbX_antigen.pdb 7lfbHL_antibody.pdb
+Converting SMILES to graph: 66/500
+7lfdA_antigen.pdb 7lfdHL_antibody.pdb
+Converting SMILES to graph: 67/500
+7lg6EB_antigen.pdb 7lg6JM_antibody.pdb
+Converting SMILES to graph: 68/500
+7li6A_antigen.pdb 7li6BC_antibody.pdb
+Converting SMILES to graph: 69/500
+7li7A_antigen.pdb 7li7BC_antibody.pdb
+Converting SMILES to graph: 70/500
+7li8A_antigen.pdb 7li8BC_antibody.pdb
+Converting SMILES to graph: 71/500
+7li9A_antigen.pdb 7li9BC_antibody.pdb
+Converting SMILES to graph: 72/500
+7liaA_antigen.pdb 7liaBC_antibody.pdb
+Converting SMILES to graph: 73/500
+7lj4B_antigen.pdb 7lj4GF_antibody.pdb
+Converting SMILES to graph: 74/500
+7lj5A_antigen.pdb 7lj5ED_antibody.pdb
+Converting SMILES to graph: 75/500
+7ljaB_antigen.pdb 7ljaGF_antibody.pdb
+Converting SMILES to graph: 76/500
+7ljbA_antigen.pdb 7ljbED_antibody.pdb
+Converting SMILES to graph: 77/500
+7ljcABG_antigen.pdb 7ljcN_antibody.pdb
+Converting SMILES to graph: 78/500
+7ljdABG_antigen.pdb 7ljdN_antibody.pdb
+Converting SMILES to graph: 79/500
+7ljrA_antigen.pdb 7ljrST_antibody.pdb
+Converting SMILES to graph: 80/500
+7lk4P_antigen.pdb 7lk4FE_antibody.pdb
+Converting SMILES to graph: 81/500
+7lkbD_antigen.pdb 7lkbBC_antibody.pdb
+Converting SMILES to graph: 82/500
+7lkfA_antigen.pdb 7lkfHL_antibody.pdb
+Converting SMILES to graph: 83/500
+7lkgF_antigen.pdb 7lkgDE_antibody.pdb
+Converting SMILES to graph: 84/500
+7lkhA_antigen.pdb 7lkhHL_antibody.pdb
+Converting SMILES to graph: 85/500
+7lkiF_antigen.pdb 7lkiDE_antibody.pdb
+Converting SMILES to graph: 86/500
+7ll1A_antigen.pdb 7ll1HL_antibody.pdb
+Converting SMILES to graph: 87/500
+7ll2C_antigen.pdb 7ll2IJ_antibody.pdb
+Converting SMILES to graph: 88/500
+7llkE_antigen.pdb 7llkGH_antibody.pdb
+Converting SMILES to graph: 89/500
+7lllAB_antigen.pdb 7lllN_antibody.pdb
+Converting SMILES to graph: 90/500
+7llyAB_antigen.pdb 7llyN_antibody.pdb
+Converting SMILES to graph: 91/500
+7lm8A_antigen.pdb 7lm8HL_antibody.pdb
+Converting SMILES to graph: 92/500
+7lm9A_antigen.pdb 7lm9HL_antibody.pdb
+Converting SMILES to graph: 93/500
+7lo6A_antigen.pdb 7lo6LK_antibody.pdb
+Converting SMILES to graph: 94/500
+7lo7Z_antigen.pdb 7lo7HL_antibody.pdb
+Converting SMILES to graph: 95/500
+7lo8Z_antigen.pdb 7lo8HL_antibody.pdb
+Converting SMILES to graph: 96/500
+7lokA_antigen.pdb 7lokKJ_antibody.pdb
+Converting SMILES to graph: 97/500
+7lopZ_antigen.pdb 7lopWV_antibody.pdb
+Converting SMILES to graph: 98/500
+7lpnC_antigen.pdb 7lpnD_antibody.pdb
+Converting SMILES to graph: 99/500
+7lq7A_antigen.pdb 7lq7HL_antibody.pdb
+Converting SMILES to graph: 100/500
+7lqvA_antigen.pdb 7lqvHL_antibody.pdb
+Converting SMILES to graph: 101/500
+7lqwC_antigen.pdb 7lqwHL_antibody.pdb
+Converting SMILES to graph: 102/500
+7lr3C_antigen.pdb 7lr3AB_antibody.pdb
+Converting SMILES to graph: 103/500
+7lr4C_antigen.pdb 7lr4AB_antibody.pdb
+Converting SMILES to graph: 104/500
+7lrsC_antigen.pdb 7lrsDE_antibody.pdb
+Converting SMILES to graph: 105/500
+7lrtB_antigen.pdb 7lrtFG_antibody.pdb
+Converting SMILES to graph: 106/500
+7ls9A_antigen.pdb 7ls9HL_antibody.pdb
+Converting SMILES to graph: 107/500
+7lseE_antigen.pdb 7lseHL_antibody.pdb
+Converting SMILES to graph: 108/500
+7lsfE_antigen.pdb 7lsfHL_antibody.pdb
+Converting SMILES to graph: 109/500
+7lsgC_antigen.pdb 7lsgHL_antibody.pdb
+Converting SMILES to graph: 110/500
+7lssB_antigen.pdb 7lssHL_antibody.pdb
+Converting SMILES to graph: 111/500
+7lu9f_antigen.pdb 7lu9lk_antibody.pdb
+Converting SMILES to graph: 112/500
+7lucA_antigen.pdb 7lucFG_antibody.pdb
+Converting SMILES to graph: 113/500
+7lueC_antigen.pdb 7lueJN_antibody.pdb
+Converting SMILES to graph: 114/500
+7lvwF_antigen.pdb 7lvwK_antibody.pdb
+Converting SMILES to graph: 115/500
+7lwdA_antigen.pdb 7lwdHL_antibody.pdb
+Converting SMILES to graph: 116/500
+7lx2A_antigen.pdb 7lx2HL_antibody.pdb
+Converting SMILES to graph: 117/500
+7lx3A_antigen.pdb 7lx3HL_antibody.pdb
+Converting SMILES to graph: 118/500
+7lx5B_antigen.pdb 7lx5C_antibody.pdb
+Converting SMILES to graph: 119/500
+7lxmA_antigen.pdb 7lxmHL_antibody.pdb
+Converting SMILES to graph: 120/500
+7lxnA_antigen.pdb 7lxnHL_antibody.pdb
+Converting SMILES to graph: 121/500
+7lxwA_antigen.pdb 7lxwHL_antibody.pdb
+Converting SMILES to graph: 122/500
+7lxxA_antigen.pdb 7lxxHL_antibody.pdb
+Converting SMILES to graph: 123/500
+7lxyB_antigen.pdb 7lxyFC_antibody.pdb
+Converting SMILES to graph: 124/500
+7lxzA_antigen.pdb 7lxzHJ_antibody.pdb
+Converting SMILES to graph: 125/500
+7ly0A_antigen.pdb 7ly0HL_antibody.pdb
+Converting SMILES to graph: 126/500
+7ly2B_antigen.pdb 7ly2FC_antibody.pdb
+Converting SMILES to graph: 127/500
+7ly3B_antigen.pdb 7ly3FE_antibody.pdb
+Converting SMILES to graph: 128/500
+7ly9G_antigen.pdb 7ly9BC_antibody.pdb
+Converting SMILES to graph: 129/500
+7lzpD_antigen.pdb 7lzpH_antibody.pdb
+Converting SMILES to graph: 130/500
+7m1hA_antigen.pdb 7m1hD_antibody.pdb
+Converting SMILES to graph: 131/500
+7m2hC_antigen.pdb 7m2hAB_antibody.pdb
+Converting SMILES to graph: 132/500
+7m2iC_antigen.pdb 7m2iAB_antibody.pdb
+Converting SMILES to graph: 133/500
+7m2jC_antigen.pdb 7m2jAB_antibody.pdb
+Converting SMILES to graph: 134/500
+7m30CE_antigen.pdb 7m30FG_antibody.pdb
+Converting SMILES to graph: 135/500
+7m3iR_antigen.pdb 7m3iHL_antibody.pdb
+Converting SMILES to graph: 136/500
+7m3nA_antigen.pdb 7m3nHL_antibody.pdb
+Converting SMILES to graph: 137/500
+7m42E_antigen.pdb 7m42DC_antibody.pdb
+Converting SMILES to graph: 138/500
+7m51A_antigen.pdb 7m51HL_antibody.pdb
+Converting SMILES to graph: 139/500
+7m52A_antigen.pdb 7m52HL_antibody.pdb
+Converting SMILES to graph: 140/500
+7m53A_antigen.pdb 7m53HL_antibody.pdb
+Converting SMILES to graph: 141/500
+7m55A_antigen.pdb 7m55HL_antibody.pdb
+Converting SMILES to graph: 142/500
+7m6dC_antigen.pdb 7m6dAB_antibody.pdb
+Converting SMILES to graph: 143/500
+7m6eE_antigen.pdb 7m6eDC_antibody.pdb
+Converting SMILES to graph: 144/500
+7m6fE_antigen.pdb 7m6fCD_antibody.pdb
+Converting SMILES to graph: 145/500
+7m6gC_antigen.pdb 7m6gHL_antibody.pdb
+Converting SMILES to graph: 146/500
+7m6hA_antigen.pdb 7m6hEG_antibody.pdb
+Converting SMILES to graph: 147/500
+7m6iCB_antigen.pdb 7m6iHL_antibody.pdb
+Converting SMILES to graph: 148/500
+7m71AB_antigen.pdb 7m71HL_antibody.pdb
+Converting SMILES to graph: 149/500
+7m74A_antigen.pdb 7m74HL_antibody.pdb
+Converting SMILES to graph: 150/500
+7m7bA_antigen.pdb 7m7bHL_antibody.pdb
+Converting SMILES to graph: 151/500
+7m7eAB_antigen.pdb 7m7eCD_antibody.pdb
+Converting SMILES to graph: 152/500
+7m7fA_antigen.pdb 7m7fCD_antibody.pdb
+Converting SMILES to graph: 153/500
+7m7gA_antigen.pdb 7m7gEF_antibody.pdb
+Converting SMILES to graph: 154/500
+7m7hB_antigen.pdb 7m7hEF_antibody.pdb
+Converting SMILES to graph: 155/500
+7m7iB_antigen.pdb 7m7iEF_antibody.pdb
+Converting SMILES to graph: 156/500
+7m7jA_antigen.pdb 7m7jCD_antibody.pdb
+Converting SMILES to graph: 157/500
+7m7wS_antigen.pdb 7m7wCD_antibody.pdb
+Converting SMILES to graph: 158/500
+7m8jA_antigen.pdb 7m8jHL_antibody.pdb
+Converting SMILES to graph: 159/500
+7m8lE_antigen.pdb 7m8lNQ_antibody.pdb
+Converting SMILES to graph: 160/500
+7mbxABG_antigen.pdb 7mbxN_antibody.pdb
+Converting SMILES to graph: 161/500
+7mdjC_antigen.pdb 7mdjAB_antibody.pdb
+Converting SMILES to graph: 162/500
+7mdpA_antigen.pdb 7mdpHI_antibody.pdb
+Converting SMILES to graph: 163/500
+7mdtA_antigen.pdb 7mdtHL_antibody.pdb
+Converting SMILES to graph: 164/500
+7mduA_antigen.pdb 7mduHL_antibody.pdb
+Converting SMILES to graph: 165/500
+7mdwR_antigen.pdb 7mdwA_antibody.pdb
+Converting SMILES to graph: 166/500
+7me7R_antigen.pdb 7me7B_antibody.pdb
+Converting SMILES to graph: 167/500
+7mejR_antigen.pdb 7mejA_antibody.pdb
+Converting SMILES to graph: 168/500
+7memE_antigen.pdb 7memHL_antibody.pdb
+Converting SMILES to graph: 169/500
+7mepE_antigen.pdb 7mepIG_antibody.pdb
+Converting SMILES to graph: 170/500
+7mf1A_antigen.pdb 7mf1HL_antibody.pdb
+Converting SMILES to graph: 171/500
+7mfgDC_antigen.pdb 7mfgEF_antibody.pdb
+Converting SMILES to graph: 172/500
+7mfuA_antigen.pdb 7mfuB_antibody.pdb
+Converting SMILES to graph: 173/500
+7mgwA_antigen.pdb 7mgwBC_antibody.pdb
+Converting SMILES to graph: 174/500
+7mhrC_antigen.pdb 7mhrAB_antibody.pdb
+Converting SMILES to graph: 175/500
+7mhxC_antigen.pdb 7mhxAB_antibody.pdb
+Converting SMILES to graph: 176/500
+7mhyA_antigen.pdb 7mhyOP_antibody.pdb
+Converting SMILES to graph: 177/500
+7mhzA_antigen.pdb 7mhzOP_antibody.pdb
+Converting SMILES to graph: 178/500
+7mjhA_antigen.pdb 7mjhD_antibody.pdb
+Converting SMILES to graph: 179/500
+7mjiB_antigen.pdb 7mjiE_antibody.pdb
+Converting SMILES to graph: 180/500
+7mjjB_antigen.pdb 7mjjFG_antibody.pdb
+Converting SMILES to graph: 181/500
+7mjkC_antigen.pdb 7mjkHI_antibody.pdb
+Converting SMILES to graph: 182/500
+7mjlA_antigen.pdb 7mjlHL_antibody.pdb
+Converting SMILES to graph: 183/500
+7mjsX_antigen.pdb 7mjsHL_antibody.pdb
+Converting SMILES to graph: 184/500
+7mjtC_antigen.pdb 7mjtAB_antibody.pdb
+Converting SMILES to graph: 185/500
+7mk6C_antigen.pdb 7mk6AB_antibody.pdb
+Converting SMILES to graph: 186/500
+7mklA_antigen.pdb 7mklHL_antibody.pdb
+Converting SMILES to graph: 187/500
+7mkmA_antigen.pdb 7mkmHL_antibody.pdb
+Converting SMILES to graph: 188/500
+7mlhF_antigen.pdb 7mlhCA_antibody.pdb
+Converting SMILES to graph: 189/500
+7mluD_antigen.pdb 7mluNO_antibody.pdb
+Converting SMILES to graph: 190/500
+7mlvA_antigen.pdb 7mlvLM_antibody.pdb
+Converting SMILES to graph: 191/500
+7mlyC_antigen.pdb 7mlyHI_antibody.pdb
+Converting SMILES to graph: 192/500
+7mlzA_antigen.pdb 7mlzHL_antibody.pdb
+Converting SMILES to graph: 193/500
+7mm0A_antigen.pdb 7mm0HL_antibody.pdb
+Converting SMILES to graph: 194/500
+7mmnB_antigen.pdb 7mmnDE_antibody.pdb
+Converting SMILES to graph: 195/500
+7mmoC_antigen.pdb 7mmoAB_antibody.pdb
+Converting SMILES to graph: 196/500
+7mn8B_antigen.pdb 7mn8DC_antibody.pdb
+Converting SMILES to graph: 197/500
+7mnlA_antigen.pdb 7mnlHL_antibody.pdb
+Converting SMILES to graph: 198/500
+7mnmB_antigen.pdb 7mnmKM_antibody.pdb
+Converting SMILES to graph: 199/500
+7mnnB_antigen.pdb 7mnnKM_antibody.pdb
+Converting SMILES to graph: 200/500
+7mnoA_antigen.pdb 7mnoHL_antibody.pdb
+Converting SMILES to graph: 201/500
+7mrzC_antigen.pdb 7mrzXY_antibody.pdb
+Converting SMILES to graph: 202/500
+7msqB_antigen.pdb 7msqDE_antibody.pdb
+Converting SMILES to graph: 203/500
+7mtaG_antigen.pdb 7mtaHL_antibody.pdb
+Converting SMILES to graph: 204/500
+7mtbG_antigen.pdb 7mtbHL_antibody.pdb
+Converting SMILES to graph: 205/500
+7mubC_antigen.pdb 7mubAB_antibody.pdb
+Converting SMILES to graph: 206/500
+7mw2B_antigen.pdb 7mw2FG_antibody.pdb
+Converting SMILES to graph: 207/500
+7mw3C_antigen.pdb 7mw3HL_antibody.pdb
+Converting SMILES to graph: 208/500
+7mw4B_antigen.pdb 7mw4FG_antibody.pdb
+Converting SMILES to graph: 209/500
+7mw5B_antigen.pdb 7mw5FG_antibody.pdb
+Converting SMILES to graph: 210/500
+7mw6A_antigen.pdb 7mw6DE_antibody.pdb
+Converting SMILES to graph: 211/500
+7mwwE_antigen.pdb 7mwwHL_antibody.pdb
+Converting SMILES to graph: 212/500
+7mwxC_antigen.pdb 7mwxAB_antibody.pdb
+Converting SMILES to graph: 213/500
+7mxdF_antigen.pdb 7mxdJK_antibody.pdb
+Converting SMILES to graph: 214/500
+7mxeGD_antigen.pdb 7mxeHL_antibody.pdb
+Converting SMILES to graph: 215/500
+7mxlC_antigen.pdb 7mxlJK_antibody.pdb
+Converting SMILES to graph: 216/500
+7mxpC_antigen.pdb 7mxpHL_antibody.pdb
+Converting SMILES to graph: 217/500
+7my2C_antigen.pdb 7my2D_antibody.pdb
+Converting SMILES to graph: 218/500
+7my3A_antigen.pdb 7my3E_antibody.pdb
+Converting SMILES to graph: 219/500
+7myzD_antigen.pdb 7myzIM_antibody.pdb
+Converting SMILES to graph: 220/500
+7mzfA_antigen.pdb 7mzfHL_antibody.pdb
+Converting SMILES to graph: 221/500
+7mzgA_antigen.pdb 7mzgHL_antibody.pdb
+Converting SMILES to graph: 222/500
+7mzhA_antigen.pdb 7mzhBC_antibody.pdb
+Converting SMILES to graph: 223/500
+7mziA_antigen.pdb 7mziHL_antibody.pdb
+Converting SMILES to graph: 224/500
+7mzjA_antigen.pdb 7mzjFE_antibody.pdb
+Converting SMILES to graph: 225/500
+7mzkA_antigen.pdb 7mzkHL_antibody.pdb
+Converting SMILES to graph: 226/500
+7mzlA_antigen.pdb 7mzlHL_antibody.pdb
+Converting SMILES to graph: 227/500
+7mzmA_antigen.pdb 7mzmHL_antibody.pdb
+Converting SMILES to graph: 228/500
+7mznA_antigen.pdb 7mznHL_antibody.pdb
+Converting SMILES to graph: 229/500
+7n01AC_antigen.pdb 7n01HL_antibody.pdb
+Converting SMILES to graph: 230/500
+7n05E_antigen.pdb 7n05HL_antibody.pdb
+Converting SMILES to graph: 231/500
+7n08F_antigen.pdb 7n08HL_antibody.pdb
+Converting SMILES to graph: 232/500
+7n0aC_antigen.pdb 7n0aBA_antibody.pdb
+Converting SMILES to graph: 233/500
+7n0gC_antigen.pdb 7n0gZ_antibody.pdb
+Converting SMILES to graph: 234/500
+7n0hC_antigen.pdb 7n0hZ_antibody.pdb
+Converting SMILES to graph: 235/500
+7n0iEF_antigen.pdb 7n0iK_antibody.pdb
+Converting SMILES to graph: 236/500
+7n0rB_antigen.pdb 7n0rD_antibody.pdb
+Converting SMILES to graph: 237/500
+7n0sC_antigen.pdb 7n0sF_antibody.pdb
+Converting SMILES to graph: 238/500
+7n0uC_antigen.pdb 7n0uHL_antibody.pdb
+Converting SMILES to graph: 239/500
+7n0vC_antigen.pdb 7n0vHL_antibody.pdb
+Converting SMILES to graph: 240/500
+7n0xG_antigen.pdb 7n0xHL_antibody.pdb
+Converting SMILES to graph: 241/500
+7n28G_antigen.pdb 7n28SU_antibody.pdb
+Converting SMILES to graph: 242/500
+7n3cC_antigen.pdb 7n3cHL_antibody.pdb
+Converting SMILES to graph: 243/500
+7n3dC_antigen.pdb 7n3dHL_antibody.pdb
+Converting SMILES to graph: 244/500
+7n3iC_antigen.pdb 7n3iHL_antibody.pdb
+Converting SMILES to graph: 245/500
+7n4iC_antigen.pdb 7n4iHL_antibody.pdb
+Converting SMILES to graph: 246/500
+7n4jA_antigen.pdb 7n4jHL_antibody.pdb
+Converting SMILES to graph: 247/500
+7n4lA_antigen.pdb 7n4lHL_antibody.pdb
+Converting SMILES to graph: 248/500
+7n4mA_antigen.pdb 7n4mHL_antibody.pdb
+Converting SMILES to graph: 249/500
+7n4nA_antigen.pdb 7n4nD_antibody.pdb
+Converting SMILES to graph: 250/500
+7n5hA_antigen.pdb 7n5hHL_antibody.pdb
+Converting SMILES to graph: 251/500
+7n62A_antigen.pdb 7n62HL_antibody.pdb
+Converting SMILES to graph: 252/500
+7n64BA_antigen.pdb 7n64HL_antibody.pdb
+Converting SMILES to graph: 253/500
+7n65A_antigen.pdb 7n65CD_antibody.pdb
+Converting SMILES to graph: 254/500
+7n8hA_antigen.pdb 7n8hED_antibody.pdb
+Converting SMILES to graph: 255/500
+7n8iA_antigen.pdb 7n8iHL_antibody.pdb
+Converting SMILES to graph: 256/500
+7n8qG_antigen.pdb 7n8qHL_antibody.pdb
+Converting SMILES to graph: 257/500
+7n9aE_antigen.pdb 7n9aA_antibody.pdb
+Converting SMILES to graph: 258/500
+7n9bCB_antigen.pdb 7n9bF_antibody.pdb
+Converting SMILES to graph: 259/500
+7n9cA_antigen.pdb 7n9cE_antibody.pdb
+Converting SMILES to graph: 260/500
+7n9eAB_antigen.pdb 7n9eD_antibody.pdb
+Converting SMILES to graph: 261/500
+7n9tC_antigen.pdb 7n9tD_antibody.pdb
+Converting SMILES to graph: 262/500
+7n9vC_antigen.pdb 7n9vB_antibody.pdb
+Converting SMILES to graph: 263/500
+7na7AB_antigen.pdb 7na7Nn_antibody.pdb
+Converting SMILES to graph: 264/500
+7na8AB_antigen.pdb 7na8Nn_antibody.pdb
+Converting SMILES to graph: 265/500
+7na9A_antigen.pdb 7na9D_antibody.pdb
+Converting SMILES to graph: 266/500
+7nabD_antigen.pdb 7nabAB_antibody.pdb
+Converting SMILES to graph: 267/500
+7nbbACB_antigen.pdb 7nbbD_antibody.pdb
+Converting SMILES to graph: 268/500
+7ncsA_antigen.pdb 7ncsHL_antibody.pdb
+Converting SMILES to graph: 269/500
+7nd0A_antigen.pdb 7nd0HL_antibody.pdb
+Converting SMILES to graph: 270/500
+7nd3B_antigen.pdb 7nd3HL_antibody.pdb
+Converting SMILES to graph: 271/500
+7nd4C_antigen.pdb 7nd4HL_antibody.pdb
+Converting SMILES to graph: 272/500
+7nd5B_antigen.pdb 7nd5HL_antibody.pdb
+Converting SMILES to graph: 273/500
+7nd6B_antigen.pdb 7nd6HL_antibody.pdb
+Converting SMILES to graph: 274/500
+7nd7A_antigen.pdb 7nd7HL_antibody.pdb
+Converting SMILES to graph: 275/500
+7nd8B_antigen.pdb 7nd8HL_antibody.pdb
+Converting SMILES to graph: 276/500
+7nd9B_antigen.pdb 7nd9HL_antibody.pdb
+Converting SMILES to graph: 277/500
+7ndaCA_antigen.pdb 7ndaHL_antibody.pdb
+Converting SMILES to graph: 278/500
+7ndbB_antigen.pdb 7ndbHL_antibody.pdb
+Converting SMILES to graph: 279/500
+7ndcB_antigen.pdb 7ndcHL_antibody.pdb
+Converting SMILES to graph: 280/500
+7nddA_antigen.pdb 7nddFG_antibody.pdb
+Converting SMILES to graph: 281/500
+7ndfB_antigen.pdb 7ndfC_antibody.pdb
+Converting SMILES to graph: 282/500
+7negE_antigen.pdb 7negHL_antibody.pdb
+Converting SMILES to graph: 283/500
+7nehE_antigen.pdb 7nehHL_antibody.pdb
+Converting SMILES to graph: 284/500
+7neqA_antigen.pdb 7neqFE_antibody.pdb
+Converting SMILES to graph: 285/500
+7nezB_antigen.pdb 7nezDC_antibody.pdb
+Converting SMILES to graph: 286/500
+7nfdB_antigen.pdb 7nfdDC_antibody.pdb
+Converting SMILES to graph: 287/500
+7nfqB_antigen.pdb 7nfqD_antibody.pdb
+Converting SMILES to graph: 288/500
+7nfrA_antigen.pdb 7nfrB_antibody.pdb
+Converting SMILES to graph: 289/500
+7nftA_antigen.pdb 7nftC_antibody.pdb
+Converting SMILES to graph: 290/500
+7nghB_antigen.pdb 7nghD_antibody.pdb
+Converting SMILES to graph: 291/500
+7nikAB_antigen.pdb 7nikF_antibody.pdb
+Converting SMILES to graph: 292/500
+7nilA_antigen.pdb 7nilF_antibody.pdb
+Converting SMILES to graph: 293/500
+7nirAB_antigen.pdb 7nirF_antibody.pdb
+Converting SMILES to graph: 294/500
+7niuA_antigen.pdb 7niuED_antibody.pdb
+Converting SMILES to graph: 295/500
+7nivA_antigen.pdb 7nivCB_antibody.pdb
+Converting SMILES to graph: 296/500
+7niwA_antigen.pdb 7niwCB_antibody.pdb
+Converting SMILES to graph: 297/500
+7nj3A_antigen.pdb 7nj3F_antibody.pdb
+Converting SMILES to graph: 298/500
+7nj5A_antigen.pdb 7nj5F_antibody.pdb
+Converting SMILES to graph: 299/500
+7njzC_antigen.pdb 7njzHL_antibody.pdb
+Converting SMILES to graph: 300/500
+7nk4A_antigen.pdb 7nk4F_antibody.pdb
+Converting SMILES to graph: 301/500
+7nk8AB_antigen.pdb 7nk8F_antibody.pdb
+Converting SMILES to graph: 302/500
+7nkiA_antigen.pdb 7nkiF_antibody.pdb
+Converting SMILES to graph: 303/500
+7nksB_antigen.pdb 7nksCD_antibody.pdb
+Converting SMILES to graph: 304/500
+7nktA_antigen.pdb 7nktB_antibody.pdb
+Converting SMILES to graph: 305/500
+7nllD_antigen.pdb 7nllA_antibody.pdb
+Converting SMILES to graph: 306/500
+7nmuA_antigen.pdb 7nmuC_antibody.pdb
+Converting SMILES to graph: 307/500
+7nowB_antigen.pdb 7nowA_antibody.pdb
+Converting SMILES to graph: 308/500
+7nozDC_antigen.pdb 7nozR_antibody.pdb
+Converting SMILES to graph: 309/500
+7np1B_antigen.pdb 7np1IM_antibody.pdb
+Converting SMILES to graph: 310/500
+7nqaB_antigen.pdb 7nqaC_antibody.pdb
+Converting SMILES to graph: 311/500
+7nqkA_antigen.pdb 7nqkB_antibody.pdb
+Converting SMILES to graph: 312/500
+7nrhA_antigen.pdb 7nrhHL_antibody.pdb
+Converting SMILES to graph: 313/500
+7ns6J_antigen.pdb 7ns6H_antibody.pdb
+Converting SMILES to graph: 314/500
+7ntcC_antigen.pdb 7ntcHL_antibody.pdb
+Converting SMILES to graph: 315/500
+7nvle_antigen.pdb 7nvln_antibody.pdb
+Converting SMILES to graph: 316/500
+7nvmE_antigen.pdb 7nvmN_antibody.pdb
+Converting SMILES to graph: 317/500
+7nvnE_antigen.pdb 7nvnN_antibody.pdb
+Converting SMILES to graph: 318/500
+7nvoE_antigen.pdb 7nvoN_antibody.pdb
+Converting SMILES to graph: 319/500
+7nw3A_antigen.pdb 7nw3HL_antibody.pdb
+Converting SMILES to graph: 320/500
+7nwlB_antigen.pdb 7nwlDE_antibody.pdb
+Converting SMILES to graph: 321/500
+7nx0C_antigen.pdb 7nx0D_antibody.pdb
+Converting SMILES to graph: 322/500
+7nx3A_antigen.pdb 7nx3ED_antibody.pdb
+Converting SMILES to graph: 323/500
+7nx6E_antigen.pdb 7nx6HL_antibody.pdb
+Converting SMILES to graph: 324/500
+7nx7E_antigen.pdb 7nx7HL_antibody.pdb
+Converting SMILES to graph: 325/500
+7nx8E_antigen.pdb 7nx8HL_antibody.pdb
+Converting SMILES to graph: 326/500
+7nx9E_antigen.pdb 7nx9AB_antibody.pdb
+Converting SMILES to graph: 327/500
+7nxaE_antigen.pdb 7nxaAB_antibody.pdb
+Converting SMILES to graph: 328/500
+7nxbE_antigen.pdb 7nxbAB_antibody.pdb
+Converting SMILES to graph: 329/500
+7nxxA_antigen.pdb 7nxxB_antibody.pdb
+Converting SMILES to graph: 330/500
+7ny5G_antigen.pdb 7ny5IH_antibody.pdb
+Converting SMILES to graph: 331/500
+7o06C_antigen.pdb 7o06A_antibody.pdb
+Converting SMILES to graph: 332/500
+7o0sB_antigen.pdb 7o0sA_antibody.pdb
+Converting SMILES to graph: 333/500
+7o2zP_antigen.pdb 7o2zHL_antibody.pdb
+Converting SMILES to graph: 334/500
+7o30Q_antigen.pdb 7o30BA_antibody.pdb
+Converting SMILES to graph: 335/500
+7o31P_antigen.pdb 7o31HL_antibody.pdb
+Converting SMILES to graph: 336/500
+7o33P_antigen.pdb 7o33HL_antibody.pdb
+Converting SMILES to graph: 337/500
+7o3bG_antigen.pdb 7o3bA_antibody.pdb
+Converting SMILES to graph: 338/500
+7o52U_antigen.pdb 7o52HL_antibody.pdb
+Converting SMILES to graph: 339/500
+7o7fAB_antigen.pdb 7o7fHF_antibody.pdb
+Converting SMILES to graph: 340/500
+7o9sA_antigen.pdb 7o9sHL_antibody.pdb
+Converting SMILES to graph: 341/500
+7o9wA_antigen.pdb 7o9wCB_antibody.pdb
+Converting SMILES to graph: 342/500
+7oanA_antigen.pdb 7oanF_antibody.pdb
+Converting SMILES to graph: 343/500
+7oaoE_antigen.pdb 7oaoF_antibody.pdb
+Converting SMILES to graph: 344/500
+7oapE_antigen.pdb 7oapF_antibody.pdb
+Converting SMILES to graph: 345/500
+7oaqE_antigen.pdb 7oaqA_antibody.pdb
+Converting SMILES to graph: 346/500
+7oauA_antigen.pdb 7oauB_antibody.pdb
+Converting SMILES to graph: 347/500
+7oayK_antigen.pdb 7oayL_antibody.pdb
+Converting SMILES to graph: 348/500
+7ocjA_antigen.pdb 7ocjG_antibody.pdb
+Converting SMILES to graph: 349/500
+7ocyAB_antigen.pdb 7ocyC_antibody.pdb
+Converting SMILES to graph: 350/500
+7oh0A_antigen.pdb 7oh0CB_antibody.pdb
+Converting SMILES to graph: 351/500
+7oh1A_antigen.pdb 7oh1ED_antibody.pdb
+Converting SMILES to graph: 352/500
+7olyC_antigen.pdb 7olyHL_antibody.pdb
+Converting SMILES to graph: 353/500
+7olzA_antigen.pdb 7olzB_antibody.pdb
+Converting SMILES to graph: 354/500
+7om4A_antigen.pdb 7om4B_antibody.pdb
+Converting SMILES to graph: 355/500
+7ommAB_antigen.pdb 7ommC_antibody.pdb
+Converting SMILES to graph: 356/500
+7or9E_antigen.pdb 7or9HL_antibody.pdb
+Converting SMILES to graph: 357/500
+7oraC_antigen.pdb 7oraHL_antibody.pdb
+Converting SMILES to graph: 358/500
+7orbX_antigen.pdb 7orbEF_antibody.pdb
+Converting SMILES to graph: 359/500
+7ow1A_antigen.pdb 7ow1HK_antibody.pdb
+Converting SMILES to graph: 360/500
+7ox1G_antigen.pdb 7ox1AB_antibody.pdb
+Converting SMILES to graph: 361/500
+7ox2T_antigen.pdb 7ox2AL_antibody.pdb
+Converting SMILES to graph: 362/500
+7ox3C_antigen.pdb 7ox3AB_antibody.pdb
+Converting SMILES to graph: 363/500
+7ox4C_antigen.pdb 7ox4AB_antibody.pdb
+Converting SMILES to graph: 364/500
+7oxnA_antigen.pdb 7oxnHK_antibody.pdb
+Converting SMILES to graph: 365/500
+7oztB_antigen.pdb 7oztA_antibody.pdb
+Converting SMILES to graph: 366/500
+7p00ABG_antigen.pdb 7p00Hh_antibody.pdb
+Converting SMILES to graph: 367/500
+7p02ABG_antigen.pdb 7p02Hh_antibody.pdb
+Converting SMILES to graph: 368/500
+7p14A_antigen.pdb 7p14B_antibody.pdb
+Converting SMILES to graph: 369/500
+7p16A_antigen.pdb 7p16B_antibody.pdb
+Converting SMILES to graph: 370/500
+7p2dA_antigen.pdb 7p2dC_antibody.pdb
+Converting SMILES to graph: 371/500
+7p40A_antigen.pdb 7p40FB_antibody.pdb
+Converting SMILES to graph: 372/500
+7p5vA_antigen.pdb 7p5vG_antibody.pdb
+Converting SMILES to graph: 373/500
+7p5wF_antigen.pdb 7p5wL_antibody.pdb
+Converting SMILES to graph: 374/500
+7p5yD_antigen.pdb 7p5yJ_antibody.pdb
+Converting SMILES to graph: 375/500
+7p60D_antigen.pdb 7p60H_antibody.pdb
+Converting SMILES to graph: 376/500
+7p6kB_antigen.pdb 7p6kG_antibody.pdb
+Converting SMILES to graph: 377/500
+7p77E_antigen.pdb 7p77H_antibody.pdb
+Converting SMILES to graph: 378/500
+7p78E_antigen.pdb 7p78H_antibody.pdb
+Converting SMILES to graph: 379/500
+7p79E_antigen.pdb 7p79D_antibody.pdb
+Converting SMILES to graph: 380/500
+7p7aB_antigen.pdb 7p7aA_antibody.pdb
+Converting SMILES to graph: 381/500
+7pa5A_antigen.pdb 7pa5B_antibody.pdb
+Converting SMILES to graph: 382/500
+7pa6A_antigen.pdb 7pa6Kk_antibody.pdb
+Converting SMILES to graph: 383/500
+7pa8E_antigen.pdb 7pa8YF_antibody.pdb
+Converting SMILES to graph: 384/500
+7pa9D_antigen.pdb 7pa9KL_antibody.pdb
+Converting SMILES to graph: 385/500
+7paaF_antigen.pdb 7paaAa_antibody.pdb
+Converting SMILES to graph: 386/500
+7pafD_antigen.pdb 7pafB_antibody.pdb
+Converting SMILES to graph: 387/500
+7pbdCB_antigen.pdb 7pbdF_antibody.pdb
+Converting SMILES to graph: 388/500
+7pbzCB_antigen.pdb 7pbzF_antibody.pdb
+Converting SMILES to graph: 389/500
+7pc0CB_antigen.pdb 7pc0F_antibody.pdb
+Converting SMILES to graph: 390/500
+7pc2C_antigen.pdb 7pc2GH_antibody.pdb
+Converting SMILES to graph: 391/500
+7pg8K_antigen.pdb 7pg8IG_antibody.pdb
+Converting SMILES to graph: 392/500
+7pgbT_antigen.pdb 7pgbRS_antibody.pdb
+Converting SMILES to graph: 393/500
+7ph2B_antigen.pdb 7ph2C_antibody.pdb
+Converting SMILES to graph: 394/500
+7ph3B_antigen.pdb 7ph3C_antibody.pdb
+Converting SMILES to graph: 395/500
+7ph4B_antigen.pdb 7ph4C_antibody.pdb
+Converting SMILES to graph: 396/500
+7ph7B_antigen.pdb 7ph7C_antibody.pdb
+Converting SMILES to graph: 397/500
+7phgA_antigen.pdb 7phgHL_antibody.pdb
+Converting SMILES to graph: 398/500
+7phpA_antigen.pdb 7phpN_antibody.pdb
+Converting SMILES to graph: 399/500
+7phqB_antigen.pdb 7phqN_antibody.pdb
+Converting SMILES to graph: 400/500
+7phuA_antigen.pdb 7phuBC_antibody.pdb
+Converting SMILES to graph: 401/500
+7phvA_antigen.pdb 7phvBC_antibody.pdb
+Converting SMILES to graph: 402/500
+7phwD_antigen.pdb 7phwEF_antibody.pdb
+Converting SMILES to graph: 403/500
+7pi2D_antigen.pdb 7pi2EF_antibody.pdb
+Converting SMILES to graph: 404/500
+7pi3O_antigen.pdb 7pi3TU_antibody.pdb
+Converting SMILES to graph: 405/500
+7pi7D_antigen.pdb 7pi7EF_antibody.pdb
+Converting SMILES to graph: 406/500
+7pijB_antigen.pdb 7pijN_antibody.pdb
+Converting SMILES to graph: 407/500
+7piuAB_antigen.pdb 7piuN_antibody.pdb
+Converting SMILES to graph: 408/500
+7pivAB_antigen.pdb 7pivN_antibody.pdb
+Converting SMILES to graph: 409/500
+7pnmC_antigen.pdb 7pnmIE_antibody.pdb
+Converting SMILES to graph: 410/500
+7pnqB_antigen.pdb 7pnqDF_antibody.pdb
+Converting SMILES to graph: 411/500
+7po5A_antigen.pdb 7po5HL_antibody.pdb
+Converting SMILES to graph: 412/500
+7pqgA_antigen.pdb 7pqgB_antibody.pdb
+Converting SMILES to graph: 413/500
+7pqqA_antigen.pdb 7pqqB_antibody.pdb
+Converting SMILES to graph: 414/500
+7pqyE_antigen.pdb 7pqyHL_antibody.pdb
+Converting SMILES to graph: 415/500
+7pqzE_antigen.pdb 7pqzHL_antibody.pdb
+Converting SMILES to graph: 416/500
+7pr0A_antigen.pdb 7pr0CB_antibody.pdb
+Converting SMILES to graph: 417/500
+7pryI_antigen.pdb 7pryCD_antibody.pdb
+Converting SMILES to graph: 418/500
+7przE_antigen.pdb 7przHL_antibody.pdb
+Converting SMILES to graph: 419/500
+7ps0E_antigen.pdb 7ps0HL_antibody.pdb
+Converting SMILES to graph: 420/500
+7ps1E_antigen.pdb 7ps1AB_antibody.pdb
+Converting SMILES to graph: 421/500
+7ps2G_antigen.pdb 7ps2HL_antibody.pdb
+Converting SMILES to graph: 422/500
+7ps4A_antigen.pdb 7ps4BC_antibody.pdb
+Converting SMILES to graph: 423/500
+7ps5E_antigen.pdb 7ps5HL_antibody.pdb
+Converting SMILES to graph: 424/500
+7ps6E_antigen.pdb 7ps6HL_antibody.pdb
+Converting SMILES to graph: 425/500
+7ps7E_antigen.pdb 7ps7AB_antibody.pdb
+Converting SMILES to graph: 426/500
+7q0aB_antigen.pdb 7q0aYZ_antibody.pdb
+Converting SMILES to graph: 427/500
+7q0gE_antigen.pdb 7q0gHL_antibody.pdb
+Converting SMILES to graph: 428/500
+7q0hE_antigen.pdb 7q0hHL_antibody.pdb
+Converting SMILES to graph: 429/500
+7q0iC_antigen.pdb 7q0iHL_antibody.pdb
+Converting SMILES to graph: 430/500
+7q1uA_antigen.pdb 7q1uB_antibody.pdb
+Converting SMILES to graph: 431/500
+7q3qA_antigen.pdb 7q3qB_antibody.pdb
+Converting SMILES to graph: 432/500
+7q3rA_antigen.pdb 7q3rF_antibody.pdb
+Converting SMILES to graph: 433/500
+7q4qE_antigen.pdb 7q4qBA_antibody.pdb
+Converting SMILES to graph: 434/500
+7q6cA_antigen.pdb 7q6cHL_antibody.pdb
+Converting SMILES to graph: 435/500
+7q6eA_antigen.pdb 7q6eHL_antibody.pdb
+Converting SMILES to graph: 436/500
+7q6zA_antigen.pdb 7q6zB_antibody.pdb
+Converting SMILES to graph: 437/500
+7q9fC_antigen.pdb 7q9fJK_antibody.pdb
+Converting SMILES to graph: 438/500
+7q9gA_antigen.pdb 7q9gHL_antibody.pdb
+Converting SMILES to graph: 439/500
+7q9iB_antigen.pdb 7q9iEF_antibody.pdb
+Converting SMILES to graph: 440/500
+7q9jB_antigen.pdb 7q9jEF_antibody.pdb
+Converting SMILES to graph: 441/500
+7q9kC_antigen.pdb 7q9kHL_antibody.pdb
+Converting SMILES to graph: 442/500
+7q9mB_antigen.pdb 7q9mEF_antibody.pdb
+Converting SMILES to graph: 443/500
+7q9pB_antigen.pdb 7q9pEF_antibody.pdb
+Converting SMILES to graph: 444/500
+7qbdBA_antigen.pdb 7qbdE_antibody.pdb
+Converting SMILES to graph: 445/500
+7qbeA_antigen.pdb 7qbeE_antibody.pdb
+Converting SMILES to graph: 446/500
+7qbfA_antigen.pdb 7qbfB_antibody.pdb
+Converting SMILES to graph: 447/500
+7qbgCB_antigen.pdb 7qbgE_antibody.pdb
+Converting SMILES to graph: 448/500
+7qcqB_antigen.pdb 7qcqA_antibody.pdb
+Converting SMILES to graph: 449/500
+7qe5A_antigen.pdb 7qe5B_antibody.pdb
+Converting SMILES to graph: 450/500
+7qezA_antigen.pdb 7qezEF_antibody.pdb
+Converting SMILES to graph: 451/500
+7qf0A_antigen.pdb 7qf0HL_antibody.pdb
+Converting SMILES to graph: 452/500
+7qf1A_antigen.pdb 7qf1CB_antibody.pdb
+Converting SMILES to graph: 453/500
+7qhaBA_antigen.pdb 7qhaC_antibody.pdb
+Converting SMILES to graph: 454/500
+7qiaA_antigen.pdb 7qiaB_antibody.pdb
+Converting SMILES to graph: 455/500
+7qicA_antigen.pdb 7qicB_antibody.pdb
+Converting SMILES to graph: 456/500
+7qivBA_antigen.pdb 7qivC_antibody.pdb
+Converting SMILES to graph: 457/500
+7qjiA_antigen.pdb 7qjiB_antibody.pdb
+Converting SMILES to graph: 458/500
+7qjjA_antigen.pdb 7qjjB_antibody.pdb
+Converting SMILES to graph: 459/500
+7qn5C_antigen.pdb 7qn5F_antibody.pdb
+Converting SMILES to graph: 460/500
+7qn6D_antigen.pdb 7qn6M_antibody.pdb
+Converting SMILES to graph: 461/500
+7qn7D_antigen.pdb 7qn7G_antibody.pdb
+Converting SMILES to graph: 462/500
+7qn8B_antigen.pdb 7qn8K_antibody.pdb
+Converting SMILES to graph: 463/500
+7qn9C_antigen.pdb 7qn9L_antibody.pdb
+Converting SMILES to graph: 464/500
+7qnaED_antigen.pdb 7qnaN_antibody.pdb
+Converting SMILES to graph: 465/500
+7qnbED_antigen.pdb 7qnbN_antibody.pdb
+Converting SMILES to graph: 466/500
+7qncD_antigen.pdb 7qncG_antibody.pdb
+Converting SMILES to graph: 467/500
+7qndD_antigen.pdb 7qndM_antibody.pdb
+Converting SMILES to graph: 468/500
+7qneAE_antigen.pdb 7qneG_antibody.pdb
+Converting SMILES to graph: 469/500
+7qnwE_antigen.pdb 7qnwAB_antibody.pdb
+Converting SMILES to graph: 470/500
+7qnxE_antigen.pdb 7qnxAB_antibody.pdb
+Converting SMILES to graph: 471/500
+7qnyE_antigen.pdb 7qnyHL_antibody.pdb
+Converting SMILES to graph: 472/500
+7qtiK_antigen.pdb 7qtiGH_antibody.pdb
+Converting SMILES to graph: 473/500
+7qtjA_antigen.pdb 7qtjBC_antibody.pdb
+Converting SMILES to graph: 474/500
+7qtkD_antigen.pdb 7qtkBC_antibody.pdb
+Converting SMILES to graph: 475/500
+7qu1C_antigen.pdb 7qu1AB_antibody.pdb
+Converting SMILES to graph: 476/500
+7qu2C_antigen.pdb 7qu2AB_antibody.pdb
+Converting SMILES to graph: 477/500
+7quhA_antigen.pdb 7quhHL_antibody.pdb
+Converting SMILES to graph: 478/500
+7qvkA_antigen.pdb 7qvkB_antibody.pdb
+Converting SMILES to graph: 479/500
+7qvmAB_antigen.pdb 7qvmSs_antibody.pdb
+Converting SMILES to graph: 480/500
+7r0cCA_antigen.pdb 7r0cDd_antibody.pdb
+Converting SMILES to graph: 481/500
+7r0jCA_antigen.pdb 7r0jDd_antibody.pdb
+Converting SMILES to graph: 482/500
+7r1zA_antigen.pdb 7r1zC_antibody.pdb
+Converting SMILES to graph: 483/500
+7r23A_antigen.pdb 7r23C_antibody.pdb
+Converting SMILES to graph: 484/500
+7r24A_antigen.pdb 7r24E_antibody.pdb
+Converting SMILES to graph: 485/500
+7r40B_antigen.pdb 7r40DF_antibody.pdb
+Converting SMILES to graph: 486/500
+7r4iA_antigen.pdb 7r4iD_antibody.pdb
+Converting SMILES to graph: 487/500
+7r4qB_antigen.pdb 7r4qE_antibody.pdb
+Converting SMILES to graph: 488/500
+7r4rC_antigen.pdb 7r4rD_antibody.pdb
+Converting SMILES to graph: 489/500
+7r58A_antigen.pdb 7r58HL_antibody.pdb
+Converting SMILES to graph: 490/500
+7r6wR_antigen.pdb 7r6wAB_antibody.pdb
+Converting SMILES to graph: 491/500
+7r6xR_antigen.pdb 7r6xHL_antibody.pdb
+Converting SMILES to graph: 492/500
+7r73G_antigen.pdb 7r73A_antibody.pdb
+Converting SMILES to graph: 493/500
+7r74A_antigen.pdb 7r74D_antibody.pdb
+Converting SMILES to graph: 494/500
+7r7nE_antigen.pdb 7r7nHL_antibody.pdb
+Converting SMILES to graph: 495/500
+7r87BA_antigen.pdb 7r87CD_antibody.pdb
+Converting SMILES to graph: 496/500
+7r88BA_antigen.pdb 7r88CD_antibody.pdb
+Converting SMILES to graph: 497/500
+7r89BA_antigen.pdb 7r89CD_antibody.pdb
+Converting SMILES to graph: 498/500
+7r8aBA_antigen.pdb 7r8aCD_antibody.pdb
+Converting SMILES to graph: 499/500
+7r8bBA_antigen.pdb 7r8bCD_antibody.pdb
+Converting SMILES to graph: 500/500
+7r8lE_antigen.pdb 7r8lHL_antibody.pdb
+Graph construction done. Saving to file.

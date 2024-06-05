@@ -1,0 +1,65 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: all_CDR_seq_uniq.fasta
+           13,006 sequences; 130,241 total letters
+
+
+
+Query= L1
+
+Length=11
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  id_3636                                                             15.4    5.5  
+
+
+> id_3636
+Length=8
+
+ Score = 15.4 bits (28),  Expect = 5.5, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  2  GDRLRSYY  9
+          GD + SYY
+Sbjct  1  GDSMSSYY  8
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.131    0.374    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1432651
+
+
+  Database: all_CDR_seq_uniq.fasta
+    Posted date:  Dec 27, 2023  2:52 AM
+  Number of letters in database: 130,241
+  Number of sequences in database:  13,006
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

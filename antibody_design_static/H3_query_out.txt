@@ -1,0 +1,1145 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: all_CDR_seq_uniq.fasta
+           13,006 sequences; 130,241 total letters
+
+
+
+Query= H3
+
+Length=18
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  id_1102                                                             28.1    9e-05
+  id_2940                                                             25.0    0.001
+  id_1306                                                             24.6    0.002
+  id_4290                                                             24.3    0.003
+  id_2122                                                             23.9    0.004
+  id_1704                                                             23.1    0.008
+  id_1051                                                             23.1    0.008
+  id_2104                                                             23.1    0.008
+  id_2230                                                             23.1    0.009
+  id_9990                                                             22.3    0.017
+  id_2180                                                             21.9    0.020
+  id_2846                                                             21.6    0.033
+  id_2290                                                             21.2    0.038
+  id_2967                                                             21.2    0.044
+  id_1518                                                             20.8    0.064
+  id_2300                                                             20.4    0.085
+  id_12758                                                            20.0    0.11 
+  id_7520                                                             20.0    0.15 
+  id_6770                                                             19.6    0.15 
+  id_1414                                                             19.6    0.17 
+  id_2310                                                             19.6    0.19 
+  id_2827                                                             19.6    0.19 
+  id_2410                                                             19.6    0.20 
+  id_12723                                                            19.2    0.23 
+  id_1074                                                             19.2    0.27 
+  id_4200                                                             18.9    0.31 
+  id_1642                                                             18.5    0.42 
+  id_6380                                                             18.5    0.43 
+  id_8896                                                             18.5    0.46 
+  id_1819                                                             18.5    0.52 
+  id_12791                                                            18.5    0.53 
+  id_2386                                                             18.1    0.59 
+  id_12717                                                            18.5    0.61 
+  id_5460                                                             18.1    0.63 
+  id_5680                                                             18.1    0.64 
+  id_12716                                                            18.1    0.65 
+  id_2600                                                             17.7    0.87 
+  id_1943                                                             17.7    0.90 
+  id_8470                                                             17.7    0.96 
+  id_1487                                                             17.7    0.96 
+  id_2340                                                             17.7    1.0  
+  id_5690                                                             17.7    1.0  
+  id_1095                                                             17.7    1.1  
+  id_1399                                                             17.7    1.1  
+  id_1741                                                             17.7    1.1  
+  id_2330                                                             17.3    1.1  
+  id_1996                                                             17.7    1.1  
+  id_1188                                                             17.3    1.2  
+  id_6200                                                             17.3    1.3  
+  id_4150                                                             17.3    1.3  
+  id_1889                                                             17.3    1.4  
+  id_6590                                                             17.3    1.4  
+  id_1400                                                             17.3    1.4  
+  id_2324                                                             17.3    1.5  
+  id_1370                                                             17.3    1.5  
+  id_2566                                                             17.3    1.5  
+  id_1770                                                             17.3    1.6  
+  id_8700                                                             16.9    1.6  
+  id_9780                                                             16.9    1.7  
+  id_1415                                                             16.9    1.7  
+  id_2217                                                             16.9    1.7  
+  id_2925                                                             16.9    1.8  
+  id_1937                                                             16.9    1.8  
+  id_1316                                                             16.9    1.8  
+  id_1398                                                             16.9    1.8  
+  id_1217                                                             16.9    1.8  
+  id_2484                                                             16.9    1.9  
+  id_1966                                                             16.9    1.9  
+  id_2356                                                             16.9    2.0  
+  id_8190                                                             16.9    2.1  
+  id_2084                                                             16.5    2.1  
+  id_1857                                                             16.5    2.2  
+  id_2190                                                             16.5    2.2  
+  id_12875                                                            16.5    2.2  
+  id_2240                                                             16.5    2.3  
+  id_12741                                                            16.5    2.5  
+  id_1940                                                             16.5    2.5  
+  id_1078                                                             16.2    3.0  
+  id_1181                                                             16.2    3.3  
+  id_1561                                                             16.2    3.4  
+  id_2849                                                             16.2    4.1  
+  id_1167                                                             15.8    4.7  
+  id_2350                                                             15.8    5.0  
+  id_1694                                                             15.8    5.2  
+  id_2780                                                             15.4    5.7  
+  id_12594                                                            15.4    5.9  
+  id_2206                                                             15.4    6.5  
+  id_2971                                                             15.4    6.5  
+  id_2438                                                             15.4    6.6  
+  id_12665                                                            15.4    8.6  
+  id_2220                                                             15.4    8.8  
+
+
+> id_1102
+Length=19
+
+ Score = 28.1 bits (61),  Expect = 9e-05, Method: Compositional matrix adjust.
+ Identities = 10/12 (83%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+
+Query  7   CSGGSCYNWFDP  18
+           C GG CYNWFDP
+Sbjct  8   CGGGRCYNWFDP  19
+
+
+> id_2940
+Length=19
+
+ Score = 25.0 bits (53),  Expect = 0.001, Method: Compositional matrix adjust.
+ Identities = 8/12 (67%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+
+Query  7   CSGGSCYNWFDP  18
+           C GG+C+ WFDP
+Sbjct  8   CRGGTCWGWFDP  19
+
+
+> id_1306
+Length=19
+
+ Score = 24.6 bits (52),  Expect = 0.002, Method: Compositional matrix adjust.
+ Identities = 11/13 (85%), Positives = 12/13 (92%), Gaps = 1/13 (8%)
+
+Query  7   CSGGSCYN-WFDP  18
+           CSGGSCY+ WFDP
+Sbjct  7   CSGGSCYSVWFDP  19
+
+
+> id_4290
+Length=19
+
+ Score = 24.3 bits (51),  Expect = 0.003, Method: Compositional matrix adjust.
+ Identities = 9/12 (75%), Positives = 9/12 (75%), Gaps = 0/12 (0%)
+
+Query  7   CSGGSCYNWFDP  18
+           CSGG C  WFDP
+Sbjct  8   CSGGRCSGWFDP  19
+
+
+> id_2122
+Length=18
+
+ Score = 23.9 bits (50),  Expect = 0.004, Method: Compositional matrix adjust.
+ Identities = 10/17 (59%), Positives = 12/17 (71%), Gaps = 0/17 (0%)
+
+Query  1   ATGNADCSGGSCYNWFD  17
+           A   +DCSGG+CY  FD
+Sbjct  1   ARLTSDCSGGNCYQAFD  17
+
+
+> id_1704
+Length=22
+
+ Score = 23.1 bits (48),  Expect = 0.008, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+
+Query  1   ATGNADCSGGSCYNW  15
+           A G + CSGG+CY W
+Sbjct  1   ARGGSRCSGGNCYGW  15
+
+
+> id_1051
+Length=18
+
+ Score = 23.1 bits (48),  Expect = 0.008, Method: Compositional matrix adjust.
+ Identities = 8/12 (67%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+
+Query  7   CSGGSCYNWFDP  18
+           CS   CY WFDP
+Sbjct  7   CSSTRCYFWFDP  18
+
+
+> id_2104
+Length=18
+
+ Score = 23.1 bits (48),  Expect = 0.008, Method: Compositional matrix adjust.
+ Identities = 8/12 (67%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+
+Query  7   CSGGSCYNWFDP  18
+           CS G C  WFDP
+Sbjct  7   CSNGVCQRWFDP  18
+
+
+> id_2230
+Length=16
+
+ Score = 23.1 bits (48),  Expect = 0.009, Method: Compositional matrix adjust.
+ Identities = 9/12 (75%), Positives = 11/12 (92%), Gaps = 0/12 (0%)
+
+Query  6   DCSGGSCYNWFD  17
+           +CSGGSCY+ FD
+Sbjct  4   NCSGGSCYDGFD  15
+
+
+> id_9990
+Length=16
+
+ Score = 22.3 bits (46),  Expect = 0.017, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+
+Query  3   GNADCSGGSCYNWFD  17
+             A CSGGSC++ FD
+Sbjct  1   ARAYCSGGSCFDTFD  15
+
+
+> id_2180
+Length=16
+
+ Score = 21.9 bits (45),  Expect = 0.020, Method: Compositional matrix adjust.
+ Identities = 8/11 (73%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           CSGG+CY+ FD
+Sbjct  5   CSGGTCYDGFD  15
+
+
+> id_2846
+Length=12
+
+ Score = 21.6 bits (44),  Expect = 0.033, Method: Compositional matrix adjust.
+ Identities = 7/12 (58%), Positives = 7/12 (58%), Gaps = 0/12 (0%)
+
+Query  7   CSGGSCYNWFDP  18
+            S    YNWFDP
+Sbjct  1   ASSADVYNWFDP  12
+
+
+> id_2290
+Length=16
+
+ Score = 21.2 bits (43),  Expect = 0.038, Method: Compositional matrix adjust.
+ Identities = 8/11 (73%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           CSGGSC++ FD
+Sbjct  5   CSGGSCFDGFD  15
+
+
+> id_2967
+Length=21
+
+ Score = 21.2 bits (43),  Expect = 0.044, Method: Compositional matrix adjust.
+ Identities = 8/11 (73%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           C GGSCY+ FD
+Sbjct  10  CGGGSCYHSFD  20
+
+
+> id_1518
+Length=23
+
+ Score = 20.8 bits (42),  Expect = 0.064, Method: Compositional matrix adjust.
+ Identities = 6/12 (50%), Positives = 6/12 (50%), Gaps = 0/12 (0%)
+
+Query  7   CSGGSCYNWFDP  18
+                 YNWFDP
+Sbjct  12  VPAARPYNWFDP  23
+
+
+> id_2300
+Length=16
+
+ Score = 20.4 bits (41),  Expect = 0.085, Method: Compositional matrix adjust.
+ Identities = 7/11 (64%), Positives = 10/11 (91%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           CSGG+C++ FD
+Sbjct  5   CSGGTCHDGFD  15
+
+
+> id_12758
+Length=20
+
+ Score = 20.0 bits (40),  Expect = 0.11, Method: Compositional matrix adjust.
+ Identities = 8/11 (73%), Positives = 8/11 (73%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           CSGG CY  FD
+Sbjct  9   CSGGFCYGEFD  19
+
+
+> id_7520
+Length=21
+
+ Score = 20.0 bits (40),  Expect = 0.15, Method: Compositional matrix adjust.
+ Identities = 6/10 (60%), Positives = 6/10 (60%), Gaps = 0/10 (0%)
+
+Query  9   GGSCYNWFDP  18
+           GG   NW DP
+Sbjct  12  GGLAMNWLDP  21
+
+
+> id_6770
+Length=20
+
+ Score = 19.6 bits (39),  Expect = 0.15, Method: Compositional matrix adjust.
+ Identities = 7/16 (44%), Positives = 8/16 (50%), Gaps = 0/16 (0%)
+
+Query  3   GNADCSGGSCYNWFDP  18
+           G      G+  NWFDP
+Sbjct  5   GGVTLVRGAKINWFDP  20
+
+
+> id_1414
+Length=20
+
+ Score = 19.6 bits (39),  Expect = 0.17, Method: Compositional matrix adjust.
+ Identities = 7/9 (78%), Positives = 9/9 (100%), Gaps = 0/9 (0%)
+
+Query  7   CSGGSCYNW  15
+           CSGGSCY++
+Sbjct  10  CSGGSCYDF  18
+
+
+> id_2310
+Length=16
+
+ Score = 19.6 bits (39),  Expect = 0.19, Method: Compositional matrix adjust.
+ Identities = 7/11 (64%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           CSGG+C + FD
+Sbjct  5   CSGGTCLDGFD  15
+
+
+> id_2827
+Length=16
+
+ Score = 19.6 bits (39),  Expect = 0.19, Method: Compositional matrix adjust.
+ Identities = 8/11 (73%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           CSGGSC + FD
+Sbjct  5   CSGGSCSDGFD  15
+
+
+> id_2410
+Length=17
+
+ Score = 19.6 bits (39),  Expect = 0.20, Method: Compositional matrix adjust.
+ Identities = 7/11 (64%), Positives = 7/11 (64%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           CS   CY WFD
+Sbjct  6   CSNTFCYGWFD  16
+
+
+> id_12723
+Length=25
+
+ Score = 19.2 bits (38),  Expect = 0.23, Method: Compositional matrix adjust.
+ Identities = 6/13 (46%), Positives = 8/13 (62%), Gaps = 0/13 (0%)
+
+Query  3   GNADCSGGSCYNW  15
+           G   C+G  C+NW
+Sbjct  9   GRRHCNGADCFNW  21
+
+
+> id_1074
+Length=19
+
+ Score = 19.2 bits (38),  Expect = 0.27, Method: Compositional matrix adjust.
+ Identities = 5/9 (56%), Positives = 7/9 (78%), Gaps = 0/9 (0%)
+
+Query  10  GSCYNWFDP  18
+            + +NWFDP
+Sbjct  11  ATAHNWFDP  19
+
+
+> id_4200
+Length=14
+
+ Score = 18.9 bits (37),  Expect = 0.31, Method: Compositional matrix adjust.
+ Identities = 6/6 (100%), Positives = 6/6 (100%), Gaps = 0/6 (0%)
+
+Query  13  YNWFDP  18
+           YNWFDP
+Sbjct  9   YNWFDP  14
+
+
+> id_1642
+Length=13
+
+ Score = 18.5 bits (36),  Expect = 0.42, Method: Compositional matrix adjust.
+ Identities = 7/9 (78%), Positives = 7/9 (78%), Gaps = 0/9 (0%)
+
+Query  10  GSCYNWFDP  18
+           GS  NWFDP
+Sbjct  5   GSPGNWFDP  13
+
+
+> id_6380
+Length=18
+
+ Score = 18.5 bits (36),  Expect = 0.43, Method: Compositional matrix adjust.
+ Identities = 6/11 (55%), Positives = 8/11 (73%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           CS  +CY +FD
+Sbjct  7   CSSATCYYYFD  17
+
+
+> id_8896
+Length=16
+
+ Score = 18.5 bits (36),  Expect = 0.46, Method: Compositional matrix adjust.
+ Identities = 9/16 (56%), Positives = 9/16 (56%), Gaps = 1/16 (6%)
+
+Query  4   NADCSGGSC-YNWFDP  18
+           N   SGG    NWFDP
+Sbjct  1   NGHGSGGEVGSNWFDP  16
+
+
+> id_1819
+Length=22
+
+ Score = 18.5 bits (36),  Expect = 0.52, Method: Compositional matrix adjust.
+ Identities = 9/18 (50%), Positives = 9/18 (50%), Gaps = 5/18 (28%)
+
+Query  6   DCSGGSC-----YNWFDP  18
+           DC   SC      NWFDP
+Sbjct  5   DCRSVSCYVSSPENWFDP  22
+
+
+> id_12791
+Length=20
+
+ Score = 18.5 bits (36),  Expect = 0.53, Method: Compositional matrix adjust.
+ Identities = 7/11 (64%), Positives = 7/11 (64%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           C GG CY  FD
+Sbjct  9   CGGGFCYGEFD  19
+
+
+> id_2386
+Length=20
+
+ Score = 18.1 bits (35),  Expect = 0.59, Method: Compositional matrix adjust.
+ Identities = 8/15 (53%), Positives = 9/15 (60%), Gaps = 3/15 (20%)
+
+Query  7   CSGGSCYN---WFDP  18
+           CS  +CY    WFDP
+Sbjct  6   CSDDACYRRGSWFDP  20
+
+
+> id_12717
+Length=25
+
+ Score = 18.5 bits (36),  Expect = 0.61, Method: Compositional matrix adjust.
+ Identities = 6/14 (43%), Positives = 8/14 (57%), Gaps = 0/14 (0%)
+
+Query  2   TGNADCSGGSCYNW  15
+            G   C+G  C+NW
+Sbjct  8   NGRRYCNGADCFNW  21
+
+
+> id_5460
+Length=13
+
+ Score = 18.1 bits (35),  Expect = 0.63, Method: Compositional matrix adjust.
+ Identities = 5/6 (83%), Positives = 5/6 (83%), Gaps = 0/6 (0%)
+
+Query  13  YNWFDP  18
+           YNW DP
+Sbjct  8   YNWLDP  13
+
+
+> id_5680
+Length=18
+
+ Score = 18.1 bits (35),  Expect = 0.64, Method: Compositional matrix adjust.
+ Identities = 6/13 (46%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+
+Query  4   NADCSGGSCYNWF  16
+           +  C+GGSCY+  
+Sbjct  3   DGKCAGGSCYSGL  15
+
+
+> id_12716
+Length=25
+
+ Score = 18.1 bits (35),  Expect = 0.65, Method: Compositional matrix adjust.
+ Identities = 6/13 (46%), Positives = 8/13 (62%), Gaps = 0/13 (0%)
+
+Query  3   GNADCSGGSCYNW  15
+           G   C+G  C+NW
+Sbjct  9   GRRYCNGADCFNW  21
+
+
+> id_2600
+Length=14
+
+ Score = 17.7 bits (34),  Expect = 0.87, Method: Compositional matrix adjust.
+ Identities = 6/14 (43%), Positives = 7/14 (50%), Gaps = 0/14 (0%)
+
+Query  5   ADCSGGSCYNWFDP  18
+           A       Y+WFDP
+Sbjct  1   ARVQYSGYYDWFDP  14
+
+
+> id_1943
+Length=19
+
+ Score = 17.7 bits (34),  Expect = 0.90, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  6   DCSGGSCY  13
+            CSGG+CY
+Sbjct  3   HCSGGTCY  10
+
+
+> id_8470
+Length=19
+
+ Score = 17.7 bits (34),  Expect = 0.96, Method: Compositional matrix adjust.
+ Identities = 6/11 (55%), Positives = 7/11 (64%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           C GGSC  + D
+Sbjct  8   CRGGSCSGYMD  18
+
+
+> id_1487
+Length=21
+
+ Score = 17.7 bits (34),  Expect = 0.96, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  7   CSGGSCYN  14
+           C GGSCY+
+Sbjct  9   CRGGSCYS  16
+
+
+> id_2340
+Length=16
+
+ Score = 17.7 bits (34),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 6/11 (55%), Positives = 8/11 (73%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           CS  SC++ FD
+Sbjct  5   CSSTSCHDAFD  15
+
+
+> id_5690
+Length=18
+
+ Score = 17.7 bits (34),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 6/13 (46%), Positives = 8/13 (62%), Gaps = 0/13 (0%)
+
+Query  4   NADCSGGSCYNWF  16
+           +  C GGSCY+  
+Sbjct  3   DGKCGGGSCYSGL  15
+
+
+> id_1095
+Length=16
+
+ Score = 17.7 bits (34),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 5/6 (83%), Positives = 6/6 (100%), Gaps = 0/6 (0%)
+
+Query  13  YNWFDP  18
+           +NWFDP
+Sbjct  11  HNWFDP  16
+
+
+> id_1399
+Length=18
+
+ Score = 17.7 bits (34),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 5/6 (83%), Positives = 6/6 (100%), Gaps = 0/6 (0%)
+
+Query  13  YNWFDP  18
+           +NWFDP
+Sbjct  13  HNWFDP  18
+
+
+> id_1741
+Length=13
+
+ Score = 17.7 bits (34),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 5/6 (83%), Positives = 5/6 (83%), Gaps = 0/6 (0%)
+
+Query  13  YNWFDP  18
+           Y WFDP
+Sbjct  8   YGWFDP  13
+
+
+> id_2330
+Length=16
+
+ Score = 17.3 bits (33),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 6/11 (55%), Positives = 8/11 (73%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           CS  +CY+ FD
+Sbjct  5   CSSTNCYDAFD  15
+
+
+> id_1996
+Length=24
+
+ Score = 17.7 bits (34),  Expect = 1.1, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  20  NWFDP  24
+
+
+> id_1188
+Length=15
+
+ Score = 17.3 bits (33),  Expect = 1.2, Method: Compositional matrix adjust.
+ Identities = 5/12 (42%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+
+Query  6   DCSGGSCYNWFD  17
+           D +  + YNW+D
+Sbjct  3   DLTTLTSYNWWD  14
+
+
+> id_6200
+Length=15
+
+ Score = 17.3 bits (33),  Expect = 1.3, Method: Compositional matrix adjust.
+ Identities = 5/6 (83%), Positives = 6/6 (100%), Gaps = 0/6 (0%)
+
+Query  13  YNWFDP  18
+           Y+WFDP
+Sbjct  10  YSWFDP  15
+
+
+> id_4150
+Length=18
+
+ Score = 17.3 bits (33),  Expect = 1.3, Method: Compositional matrix adjust.
+ Identities = 8/17 (47%), Positives = 10/17 (59%), Gaps = 2/17 (12%)
+
+Query  4   NADCSGGSCYN--WFDP  18
+            +   GGS Y+  WFDP
+Sbjct  2   ESPLGGGSGYSVSWFDP  18
+
+
+> id_1889
+Length=17
+
+ Score = 17.3 bits (33),  Expect = 1.4, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  13  NWFDP  17
+
+
+> id_6590
+Length=16
+
+ Score = 17.3 bits (33),  Expect = 1.4, Method: Compositional matrix adjust.
+ Identities = 6/10 (60%), Positives = 8/10 (80%), Gaps = 0/10 (0%)
+
+Query  6   DCSGGSCYNW  15
+           DCSG SC ++
+Sbjct  7   DCSGTSCRDY  16
+
+
+> id_1400
+Length=18
+
+ Score = 17.3 bits (33),  Expect = 1.4, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  14  NWFDP  18
+
+
+> id_2324
+Length=15
+
+ Score = 17.3 bits (33),  Expect = 1.5, Method: Compositional matrix adjust.
+ Identities = 5/10 (50%), Positives = 6/10 (60%), Gaps = 0/10 (0%)
+
+Query  9   GGSCYNWFDP  18
+           G   +NW DP
+Sbjct  6   GLERHNWLDP  15
+
+
+> id_1370
+Length=21
+
+ Score = 17.3 bits (33),  Expect = 1.5, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  17  NWFDP  21
+
+
+> id_2566
+Length=18
+
+ Score = 17.3 bits (33),  Expect = 1.5, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  14  NWFDP  18
+
+
+> id_1770
+Length=22
+
+ Score = 17.3 bits (33),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  7   CSGGSCY  13
+           CSGG+CY
+Sbjct  8   CSGGNCY  14
+
+
+> id_8700
+Length=20
+
+ Score = 16.9 bits (32),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 5/15 (33%), Positives = 9/15 (60%), Gaps = 0/15 (0%)
+
+Query  3   GNADCSGGSCYNWFD  17
+            N+ CS  +CY ++ 
+Sbjct  1   ANSYCSSTNCYRYYQ  15
+
+
+> id_9780
+Length=22
+
+ Score = 16.9 bits (32),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  18  NWFDP  22
+
+
+> id_1415
+Length=13
+
+ Score = 16.9 bits (32),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 6/10 (60%), Positives = 8/10 (80%), Gaps = 0/10 (0%)
+
+Query  8   SGGSCYNWFD  17
+            GGS Y++FD
+Sbjct  3   EGGSGYDFFD  12
+
+
+> id_2217
+Length=10
+
+ Score = 16.9 bits (32),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  6   NWFDP  10
+
+
+> id_2925
+Length=15
+
+ Score = 16.9 bits (32),  Expect = 1.8, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  11  NWFDP  15
+
+
+> id_1937
+Length=15
+
+ Score = 16.9 bits (32),  Expect = 1.8, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  11  NWFDP  15
+
+
+> id_1316
+Length=16
+
+ Score = 16.9 bits (32),  Expect = 1.8, Method: Compositional matrix adjust.
+ Identities = 6/13 (46%), Positives = 7/13 (54%), Gaps = 0/13 (0%)
+
+Query  1   ATGNADCSGGSCY  13
+           A    DCS  +CY
+Sbjct  1   ARDTEDCSSTTCY  13
+
+
+> id_1398
+Length=19
+
+ Score = 16.9 bits (32),  Expect = 1.8, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  15  NWFDP  19
+
+
+> id_1217
+Length=19
+
+ Score = 16.9 bits (32),  Expect = 1.8, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  15  NWFDP  19
+
+
+> id_2484
+Length=19
+
+ Score = 16.9 bits (32),  Expect = 1.9, Method: Compositional matrix adjust.
+ Identities = 5/10 (50%), Positives = 8/10 (80%), Gaps = 0/10 (0%)
+
+Query  7   CSGGSCYNWF  16
+           CSGG C+ ++
+Sbjct  5   CSGGFCFGYY  14
+
+
+> id_1966
+Length=17
+
+ Score = 16.9 bits (32),  Expect = 1.9, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  13  NWFDP  17
+
+
+> id_2356
+Length=15
+
+ Score = 16.9 bits (32),  Expect = 2.0, Method: Compositional matrix adjust.
+ Identities = 5/9 (56%), Positives = 7/9 (78%), Gaps = 0/9 (0%)
+
+Query  7   CSGGSCYNW  15
+           C GG+CY +
+Sbjct  5   CRGGTCYLF  13
+
+
+> id_8190
+Length=17
+
+ Score = 16.9 bits (32),  Expect = 2.1, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  13  NWFDP  17
+
+
+> id_2084
+Length=15
+
+ Score = 16.5 bits (31),  Expect = 2.1, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  7   CSGGSCY  13
+           CSGGSC+
+Sbjct  6   CSGGSCH  12
+
+
+> id_1857
+Length=16
+
+ Score = 16.5 bits (31),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  14  NWFDP  18
+           NWFDP
+Sbjct  12  NWFDP  16
+
+
+> id_2190
+Length=16
+
+ Score = 16.5 bits (31),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 6/11 (55%), Positives = 7/11 (64%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           CS   CY+ FD
+Sbjct  5   CSSTICYDGFD  15
+
+
+> id_12875
+Length=13
+
+ Score = 16.5 bits (31),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 6/9 (67%), Positives = 6/9 (67%), Gaps = 0/9 (0%)
+
+Query  10  GSCYNWFDP  18
+           GS  NWF P
+Sbjct  5   GSPSNWFHP  13
+
+
+> id_2240
+Length=16
+
+ Score = 16.5 bits (31),  Expect = 2.3, Method: Compositional matrix adjust.
+ Identities = 6/12 (50%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+
+Query  6   DCSGGSCYNWFD  17
+           +CS   CY+ FD
+Sbjct  4   NCSNVVCYDGFD  15
+
+
+> id_12741
+Length=13
+
+ Score = 16.5 bits (31),  Expect = 2.5, Method: Compositional matrix adjust.
+ Identities = 5/9 (56%), Positives = 5/9 (56%), Gaps = 0/9 (0%)
+
+Query  10  GSCYNWFDP  18
+           G   NW DP
+Sbjct  5   GGSSNWLDP  13
+
+
+> id_1940
+Length=18
+
+ Score = 16.5 bits (31),  Expect = 2.5, Method: Compositional matrix adjust.
+ Identities = 6/10 (60%), Positives = 7/10 (70%), Gaps = 0/10 (0%)
+
+Query  4   NADCSGGSCY  13
+           +A CS  SCY
+Sbjct  3   HASCSARSCY  12
+
+
+> id_1078
+Length=18
+
+ Score = 16.2 bits (30),  Expect = 3.0, Method: Compositional matrix adjust.
+ Identities = 5/13 (38%), Positives = 7/13 (54%), Gaps = 0/13 (0%)
+
+Query  4   NADCSGGSCYNWF  16
+           +  C GG CY+  
+Sbjct  3   DGKCGGGRCYSGL  15
+
+
+> id_1181
+Length=22
+
+ Score = 16.2 bits (30),  Expect = 3.3, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  7   CSGGSCYN  14
+           C+GG CY 
+Sbjct  9   CTGGVCYT  16
+
+
+> id_1561
+Length=16
+
+ Score = 16.2 bits (30),  Expect = 3.4, Method: Compositional matrix adjust.
+ Identities = 5/11 (45%), Positives = 6/11 (55%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           C G +CY   D
+Sbjct  5   CIGSTCYPILD  15
+
+
+> id_2849
+Length=21
+
+ Score = 16.2 bits (30),  Expect = 4.1, Method: Compositional matrix adjust.
+ Identities = 5/9 (56%), Positives = 6/9 (67%), Gaps = 0/9 (0%)
+
+Query  10  GSCYNWFDP  18
+           G   +WFDP
+Sbjct  13  GLDLDWFDP  21
+
+
+> id_1167
+Length=20
+
+ Score = 15.8 bits (29),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 6/13 (46%), Positives = 9/13 (69%), Gaps = 1/13 (8%)
+
+Query  7   CSGGSCYNWF-DP  18
+           C GG+C++   DP
+Sbjct  8   CGGGNCHSLLVDP  20
+
+
+> id_2350
+Length=16
+
+ Score = 15.8 bits (29),  Expect = 5.0, Method: Compositional matrix adjust.
+ Identities = 6/11 (55%), Positives = 7/11 (64%), Gaps = 0/11 (0%)
+
+Query  7   CSGGSCYNWFD  17
+           CS  SC + FD
+Sbjct  5   CSSTSCRDGFD  15
+
+
+> id_1694
+Length=19
+
+ Score = 15.8 bits (29),  Expect = 5.2, Method: Compositional matrix adjust.
+ Identities = 4/7 (57%), Positives = 4/7 (57%), Gaps = 0/7 (0%)
+
+Query  12  CYNWFDP  18
+            Y W DP
+Sbjct  13  AYTWLDP  19
+
+
+> id_2780
+Length=13
+
+ Score = 15.4 bits (28),  Expect = 5.7, Method: Compositional matrix adjust.
+ Identities = 5/9 (56%), Positives = 7/9 (78%), Gaps = 0/9 (0%)
+
+Query  7   CSGGSCYNW  15
+           CS  SCY++
+Sbjct  5   CSSTSCYDY  13
+
+
+> id_12594
+Length=15
+
+ Score = 15.4 bits (28),  Expect = 5.9, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  10  GSCYNWFD  17
+           GS YN FD
+Sbjct  7   GSFYNAFD  14
+
+
+> id_2206
+Length=15
+
+ Score = 15.4 bits (28),  Expect = 6.5, Method: Compositional matrix adjust.
+ Identities = 6/9 (67%), Positives = 7/9 (78%), Gaps = 0/9 (0%)
+
+Query  9   GGSCYNWFD  17
+           GGS Y +FD
+Sbjct  6   GGSSYWYFD  14
+
+
+> id_2971
+Length=17
+
+ Score = 15.4 bits (28),  Expect = 6.5, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  11  SCYNWFDP  18
+           S  +WFDP
+Sbjct  10  SGLHWFDP  17
+
+
+> id_2438
+Length=17
+
+ Score = 15.4 bits (28),  Expect = 6.6, Method: Compositional matrix adjust.
+ Identities = 5/6 (83%), Positives = 6/6 (100%), Gaps = 0/6 (0%)
+
+Query  7   CSGGSC  12
+           CSGG+C
+Sbjct  8   CSGGTC  13
+
+
+> id_12665
+Length=20
+
+ Score = 15.4 bits (28),  Expect = 8.6, Method: Compositional matrix adjust.
+ Identities = 4/6 (67%), Positives = 5/6 (83%), Gaps = 0/6 (0%)
+
+Query  12  CYNWFD  17
+            +NWFD
+Sbjct  14  LHNWFD  19
+
+
+> id_2220
+Length=16
+
+ Score = 15.4 bits (28),  Expect = 8.8, Method: Compositional matrix adjust.
+ Identities = 4/12 (33%), Positives = 9/12 (75%), Gaps = 0/12 (0%)
+
+Query  6   DCSGGSCYNWFD  17
+           +C+  +C++ FD
+Sbjct  4   NCNSTTCHDGFD  15
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.137    0.531    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2344338
+
+
+  Database: all_CDR_seq_uniq.fasta
+    Posted date:  Dec 27, 2023  2:52 AM
+  Number of letters in database: 130,241
+  Number of sequences in database:  13,006
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

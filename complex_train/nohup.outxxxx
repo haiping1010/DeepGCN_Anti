@@ -1,0 +1,37 @@
+1ikfC_antigen.pdb
+1zeaA_antigen.pdb
+3qnzC_antigen.pdb
+3qo0C_antigen.pdb
+4s1dH_antigen.pdb
+4s1dCD_antibody.pdb
+5ds8P_antigen.pdb
+5dscM_antigen.pdb
+5dtfP_antigen.pdb
+5dubP_antigen.pdb
+5e2wP_antigen.pdb
+5ye3C_antigen.pdb
+6df1A_antigen.pdb
+6df2D_antigen.pdb
+6e5pE_antigen.pdb
+6kvfB_antigen.pdb
+6p67G_antigen.pdb
+6x1sJ_antigen.pdb
+6x1uD_antigen.pdb
+7mfrQ_antigen.pdb
+7nj7F_antibody.pdb
+7yudR_antigen.pdb
+7yudHL_antibody.pdb
+7yufR_antigen.pdb
+7yufHL_antibody.pdb
+Traceback (most recent call last):
+  File "read_smi_protein_nnn_check.py", line 191, in <module>
+    train_data = TestbedDataset(root='data1', dataset='L_P_train_xx', xd=arr_name, pocket1_graph=pocket1_graph, y=train_Y, pocket2_graph=pocket2_graph)
+  File "read_smi_protein_nnn_check.py", line 134, in __init__
+    self.data, self.slices = torch.load(self.processed_paths[0])
+  File "/home/zhanghaiping/anaconda2/envs/GraphDTA/lib/python3.6/site-packages/torch/serialization.py", line 525, in load
+    with _open_file_like(f, 'rb') as opened_file:
+  File "/home/zhanghaiping/anaconda2/envs/GraphDTA/lib/python3.6/site-packages/torch/serialization.py", line 212, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "/home/zhanghaiping/anaconda2/envs/GraphDTA/lib/python3.6/site-packages/torch/serialization.py", line 193, in __init__
+    super(_open_file, self).__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: 'data1/processed/L_P_train_xx.pt'

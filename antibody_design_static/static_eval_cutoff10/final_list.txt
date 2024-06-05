@@ -1,0 +1,11 @@
+new_antibody_29L_SER_f.pdb -0.851889768571
+new_antibody_111BH_SER_f.pdb -0.267762888429
+new_antibody_109H_GLU_f.pdb 0.293576325121
+new_antibody_38H_LYS_f.pdb 0.636681758526
+new_antibody_57H_ASP_f.pdb 0.736584680504
+new_antibody_38H_GLU_f.pdb 0.742612539451
+new_antibody_38H_ASN_f.pdb 0.857092513768
+new_antibody_36H_ALA_f.pdb 0.957793351218
+new_antibody_113H_HIS_f.pdb 1.0033927725
+new_antibody_57H_HIS_f.pdb 1.0033927725
+new_antibody_113H_ARG_f.pdb 1.06463588533

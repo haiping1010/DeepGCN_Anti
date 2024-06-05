@@ -1,0 +1,303 @@
+> id_9430
+Query  7   CSGGSCYNWFDP  18
+Sbjct  8   CGGGRCYNWFDP  19
+> id_2748
+Query  7   CSGGSCYNWFDP  18
+Sbjct  8   CRGGTCWGWFDP  19
+> id_1147
+Query  7   CSGGSCYN-WFDP  18
+Sbjct  7   CSGGSCYSVWFDP  19
+> id_3540
+Query  7   CSGGSCYNWFDP  18
+Sbjct  8   CSGGRCSGWFDP  19
+> id_1962
+Query  1   ATGNADCSGGSCYNWFD  17
+Sbjct  1   ARLTSDCSGGNCYQAFD  17
+> id_1544
+Query  1   ATGNADCSGGSCYNW  15
+Sbjct  1   ARGGSRCSGGNCYGW  15
+> id_8920
+Query  7   CSGGSCYNWFDP  18
+Sbjct  7   CSSTRCYFWFDP  18
+> id_1944
+Query  7   CSGGSCYNWFDP  18
+Sbjct  7   CSNGVCQRWFDP  18
+> id_2180
+Query  6   DCSGGSCYNWFD  17
+Sbjct  4   NCSGGSCYDGFD  15
+> id_8400
+Query  3   GNADCSGGSCYNWFD  17
+Sbjct  1   ARAYCSGGSCFDTFD  15
+> id_2130
+Query  7   CSGGSCYNWFD  17
+Sbjct  5   CSGGTCYDGFD  15
+> id_2670
+Query  7   CSGGSCYNWFDP  18
+Sbjct  1   ASSADVYNWFDP  12
+> id_2240
+Query  7   CSGGSCYNWFD  17
+Sbjct  5   CSGGSCFDGFD  15
+> id_2773
+Query  7   CSGGSCYNWFD  17
+Sbjct  10  CGGGSCYHSFD  20
+> id_1359
+Query  7   CSGGSCYNWFDP  18
+Sbjct  12  VPAARPYNWFDP  23
+> id_2250
+Query  7   CSGGSCYNWFD  17
+Sbjct  5   CSGGTCHDGFD  15
+> id_3601
+Query  7   CSGGSCYNWFD  17
+Sbjct  9   CSGGFCYGEFD  19
+> id_6540
+Query  9   GGSCYNWFDP  18
+Sbjct  12  GGLAMNWLDP  21
+> id_5790
+Query  3   GNADCSGGSCYNWFDP  18
+Sbjct  5   GGVTLVRGAKINWFDP  20
+> id_1255
+Query  7   CSGGSCYNW  15
+Sbjct  10  CSGGSCYDF  18
+> id_2260
+Query  7   CSGGSCYNWFD  17
+Sbjct  5   CSGGTCLDGFD  15
+> id_2653
+Query  7   CSGGSCYNWFD  17
+Sbjct  5   CSGGSCSDGFD  15
+> id_2249
+Query  7   CSGGSCYNWFD  17
+Sbjct  6   CSNTFCYGWFD  16
+> id_3567
+Query  3   GNADCSGGSCYNW  15
+Sbjct  9   GRRHCNGADCFNW  21
+> id_9150
+Query  10  GSCYNWFDP  18
+Sbjct  11  ATAHNWFDP  19
+> id_3480
+Query  13  YNWFDP  18
+Sbjct  9   YNWFDP  14
+> id_1482
+Query  10  GSCYNWFDP  18
+Sbjct  5   GSPGNWFDP  13
+> id_5400
+Query  7   CSGGSCYNWFD  17
+Sbjct  7   CSSATCYYYFD  17
+> id_3033
+Query  4   NADCSGGSC-YNWFDP  18
+Sbjct  1   NGHGSGGEVGSNWFDP  16
+> id_1659
+Query  6   DCSGGSC-----YNWFDP  18
+Sbjct  5   DCRSVSCYVSSPENWFDP  22
+> id_3632
+Query  7   CSGGSCYNWFD  17
+Sbjct  9   CGGGFCYGEFD  19
+> id_2225
+Query  7   CSGGSCYN---WFDP  18
+Sbjct  6   CSDDACYRRGSWFDP  20
+> id_3561
+Query  2   TGNADCSGGSCYNW  15
+Sbjct  8   NGRRYCNGADCFNW  21
+> id_4480
+Query  13  YNWFDP  18
+Sbjct  8   YNWLDP  13
+> id_4700
+Query  4   NADCSGGSCYNWF  16
+Sbjct  3   DGKCAGGSCYSGL  15
+> id_3560
+Query  3   GNADCSGGSCYNW  15
+Sbjct  9   GRRYCNGADCFNW  21
+> id_2438
+Query  5   ADCSGGSCYNWFDP  18
+Sbjct  1   ARVQYSGYYDWFDP  14
+> id_1783
+Query  6   DCSGGSCY  13
+Sbjct  3   HCSGGTCY  10
+> id_7070
+Query  7   CSGGSCYNWFD  17
+Sbjct  8   CRGGSCSGYMD  18
+> id_1328
+Query  7   CSGGSCYN  14
+Sbjct  9   CRGGSCYS  16
+> id_2290
+Query  7   CSGGSCYNWFD  17
+Sbjct  5   CSSTSCHDAFD  15
+> id_4710
+Query  4   NADCSGGSCYNWF  16
+Sbjct  3   DGKCGGGSCYSGL  15
+> id_9360
+Query  13  YNWFDP  18
+Sbjct  11  HNWFDP  16
+> id_1240
+Query  13  YNWFDP  18
+Sbjct  13  HNWFDP  18
+> id_1581
+Query  13  YNWFDP  18
+Sbjct  8   YGWFDP  13
+> id_2280
+Query  7   CSGGSCYNWFD  17
+Sbjct  5   CSSTNCYDAFD  15
+> id_1836
+Query  14  NWFDP  18
+Sbjct  20  NWFDP  24
+> id_1029
+Query  6   DCSGGSCYNWFD  17
+Sbjct  3   DLTTLTSYNWWD  14
+> id_5220
+Query  13  YNWFDP  18
+Sbjct  10  YSWFDP  15
+> id_3430
+Query  4   NADCSGGSCYN--WFDP  18
+Sbjct  2   ESPLGGGSGYSVSWFDP  18
+> id_1729
+Query  14  NWFDP  18
+Sbjct  13  NWFDP  17
+> id_5610
+Query  6   DCSGGSCYNW  15
+Sbjct  7   DCSGTSCRDY  16
+> id_1241
+Query  14  NWFDP  18
+Sbjct  14  NWFDP  18
+> id_2164
+Query  9   GGSCYNWFDP  18
+Sbjct  6   GLERHNWLDP  15
+> id_1211
+Query  14  NWFDP  18
+Sbjct  17  NWFDP  21
+> id_2404
+Query  14  NWFDP  18
+Sbjct  14  NWFDP  18
+> id_1610
+Query  7   CSGGSCY  13
+Sbjct  8   CSGGNCY  14
+> id_7250
+Query  3   GNADCSGGSCYNWFD  17
+Sbjct  1   ANSYCSSTNCYRYYQ  15
+> id_8190
+Query  14  NWFDP  18
+Sbjct  18  NWFDP  22
+> id_1256
+Query  8   SGGSCYNWFD  17
+Sbjct  3   EGGSGYDFFD  12
+> id_2057
+Query  14  NWFDP  18
+Sbjct  6   NWFDP  10
+> id_2734
+Query  14  NWFDP  18
+Sbjct  11  NWFDP  15
+> id_1777
+Query  14  NWFDP  18
+Sbjct  11  NWFDP  15
+> id_1157
+Query  1   ATGNADCSGGSCY  13
+Sbjct  1   ARDTEDCSSTTCY  13
+> id_1239
+Query  14  NWFDP  18
+Sbjct  15  NWFDP  19
+> id_1058
+Query  14  NWFDP  18
+Sbjct  15  NWFDP  19
+> id_2323
+Query  7   CSGGSCYNWF  16
+Sbjct  5   CSGGFCFGYY  14
+> id_1806
+Query  14  NWFDP  18
+Sbjct  13  NWFDP  17
+> id_2195
+Query  7   CSGGSCYNW  15
+Sbjct  5   CRGGTCYLF  13
+> id_7000
+Query  14  NWFDP  18
+Sbjct  13  NWFDP  17
+> id_1924
+Query  7   CSGGSCY  13
+Sbjct  6   CSGGSCH  12
+> id_1697
+Query  14  NWFDP  18
+Sbjct  12  NWFDP  16
+> id_2140
+Query  7   CSGGSCYNWFD  17
+Sbjct  5   CSSTICYDGFD  15
+> id_3667
+Query  10  GSCYNWFDP  18
+Sbjct  5   GSPSNWFHP  13
+> id_2190
+Query  6   DCSGGSCYNWFD  17
+Sbjct  4   NCSNVVCYDGFD  15
+> id_3585
+Query  10  GSCYNWFDP  18
+Sbjct  5   GGSSNWLDP  13
+> id_1780
+Query  4   NADCSGGSCY  13
+Sbjct  3   HASCSARSCY  12
+> id_9190
+Query  4   NADCSGGSCYNWF  16
+Sbjct  3   DGKCGGGRCYSGL  15
+> id_1022
+Query  7   CSGGSCYN  14
+Sbjct  9   CTGGVCYT  16
+> id_1402
+Query  7   CSGGSCYNWFD  17
+Sbjct  5   CIGSTCYPILD  15
+> id_2673
+Query  10  GSCYNWFDP  18
+Sbjct  13  GLDLDWFDP  21
+> id_1008
+Query  7   CSGGSCYNWF-DP  18
+Sbjct  8   CGGGNCHSLLVDP  20
+> id_2300
+Query  7   CSGGSCYNWFD  17
+Sbjct  5   CSSTSCRDGFD  15
+> id_1534
+Query  12  CYNWFDP  18
+Sbjct  13  AYTWLDP  19
+> id_2615
+Query  7   CSGGSCYNW  15
+Sbjct  5   CSSTSCYDY  13
+> id_3492
+Query  10  GSCYNWFD  17
+Sbjct  7   GSFYNAFD  14
+> id_2046
+Query  9   GGSCYNWFD  17
+Sbjct  6   GGSSYWYFD  14
+> id_2777
+Query  11  SCYNWFDP  18
+Sbjct  10  SGLHWFDP  17
+> id_2277
+Query  7   CSGGSC  12
+Sbjct  8   CSGGTC  13
+> id_3511
+Query  12  CYNWFD  17
+Sbjct  14  LHNWFD  19
+> id_2170
+Query  6   DCSGGSCYNWFD  17
+Sbjct  4   NCNSTTCHDGFD  15
+> id_1505
+Query  7   CSGGSCYNWF  16
+Sbjct  1   ARGGDAYNYY  10
+> id_2080
+Query  7   CSGGSCYNWFD  17
+Sbjct  5   CSETSCSDGFD  15
+> id_1706
+Query  7   CSGGSCYN  14
+Sbjct  10  CSSGSCPN  17
+> id_9750
+Query  10  GSCYNWFDP  18
+Sbjct  13  AASFRWFAP  21
+> id_2200
+Query  6   DCSGGSCYNWFD  17
+Sbjct  4   NCSRTLCYDGFN  15
+> id_3446
+Query  10  GSCYNWF  16
+Sbjct  5   GTCDNWY  11
+> id_4600
+Query  5   ADCSGGSCY  13
+Sbjct  1   AACAYGTCY  9
+> id_1538
+Query  1   ATGNADCSGGSCYN  14
+Sbjct  1   ARGGRYCSSTTCYS  14
+> id_4610
+Query  6   DCSGGSCY  13
+Sbjct  8   DCSTSHCY  15
+> id_2053
+Query  7   CSGGSCYN  14
+Sbjct  5   CPGSACYD  12

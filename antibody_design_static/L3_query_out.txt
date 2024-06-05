@@ -1,0 +1,329 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: all_CDR_seq_uniq.fasta
+           13,006 sequences; 130,241 total letters
+
+
+
+Query= L3
+
+Length=11
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  id_8978                                                             20.8    0.044
+  id_8986                                                             20.0    0.093
+  id_8984                                                             20.0    0.093
+  id_8983                                                             19.2    0.14 
+  id_8980                                                             19.2    0.14 
+  id_8985                                                             19.2    0.15 
+  id_8982                                                             19.2    0.18 
+  id_8979                                                             18.9    0.21 
+  id_8961                                                             18.1    0.45 
+  id_11973                                                            17.7    0.54 
+  id_1307                                                             17.7    0.62 
+  id_8981                                                             17.7    0.63 
+  id_2831                                                             17.3    0.76 
+  id_2400                                                             16.5    1.3  
+  id_8977                                                             16.5    1.4  
+  id_11972                                                            16.2    2.0  
+  id_6280                                                             15.8    2.7  
+  id_1208                                                             15.4    5.5  
+  id_1084                                                             15.0    6.8  
+  id_11764                                                            15.0    9.0  
+  id_1428                                                             15.0    9.0  
+  id_1308                                                             15.0    9.7  
+  id_1498                                                             15.0    9.8  
+
+
+> id_8978
+Length=11
+
+ Score = 20.8 bits (42),  Expect = 0.044, Method: Compositional matrix adjust.
+ Identities = 9/11 (82%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           NSRD SG HLV
+Sbjct  1   NSRDNSGDHLV  11
+
+
+> id_8986
+Length=12
+
+ Score = 20.0 bits (40),  Expect = 0.093, Method: Compositional matrix adjust.
+ Identities = 8/11 (73%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           NSRDT+GY  V
+Sbjct  1   NSRDTNGYRPV  11
+
+
+> id_8984
+Length=11
+
+ Score = 20.0 bits (40),  Expect = 0.093, Method: Compositional matrix adjust.
+ Identities = 8/11 (73%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           NSRD+SG H V
+Sbjct  1   NSRDSSGNHWV  11
+
+
+> id_8983
+Length=12
+
+ Score = 19.2 bits (38),  Expect = 0.14, Method: Compositional matrix adjust.
+ Identities = 8/11 (73%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           NSRD+SG H V
+Sbjct  1   NSRDSSGNHPV  11
+
+
+> id_8980
+Length=11
+
+ Score = 19.2 bits (38),  Expect = 0.14, Method: Compositional matrix adjust.
+ Identities = 8/11 (73%), Positives = 8/11 (73%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           NSRD SG H V
+Sbjct  1   NSRDNSGNHWV  11
+
+
+> id_8985
+Length=11
+
+ Score = 19.2 bits (38),  Expect = 0.15, Method: Compositional matrix adjust.
+ Identities = 8/11 (73%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           NSRD+S  HLV
+Sbjct  1   NSRDSSSNHLV  11
+
+
+> id_8982
+Length=12
+
+ Score = 19.2 bits (38),  Expect = 0.18, Method: Compositional matrix adjust.
+ Identities = 8/11 (73%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           NSRD+SG H V
+Sbjct  1   NSRDSSGDHPV  11
+
+
+> id_8979
+Length=12
+
+ Score = 18.9 bits (37),  Expect = 0.21, Method: Compositional matrix adjust.
+ Identities = 8/11 (73%), Positives = 8/11 (73%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           NSRD SG H V
+Sbjct  1   NSRDNSGNHPV  11
+
+
+> id_8961
+Length=11
+
+ Score = 18.1 bits (35),  Expect = 0.45, Method: Compositional matrix adjust.
+ Identities = 7/11 (64%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           NS D+SG H+V
+Sbjct  1   NSADSSGNHVV  11
+
+
+> id_11973
+Length=11
+
+ Score = 17.7 bits (34),  Expect = 0.54, Method: Compositional matrix adjust.
+ Identities = 7/11 (64%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           +SRD+SG H V
+Sbjct  1   SSRDSSGNHWV  11
+
+
+> id_1307
+Length=15
+
+ Score = 17.7 bits (34),  Expect = 0.62, Method: Compositional matrix adjust.
+ Identities = 5/9 (56%), Positives = 8/9 (89%), Gaps = 0/9 (0%)
+
+Query  2  SRDTSGYHL  10
+          +RD+SG+H 
+Sbjct  1  ARDSSGWHW  9
+
+
+> id_8981
+Length=11
+
+ Score = 17.7 bits (34),  Expect = 0.63, Method: Compositional matrix adjust.
+ Identities = 7/11 (64%), Positives = 8/11 (73%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           NSRD+S  H V
+Sbjct  1   NSRDSSANHQV  11
+
+
+> id_2831
+Length=12
+
+ Score = 17.3 bits (33),  Expect = 0.76, Method: Compositional matrix adjust.
+ Identities = 7/10 (70%), Positives = 8/10 (80%), Gaps = 0/10 (0%)
+
+Query  2   SRDTSGYHLV  11
+           SRD+SG H V
+Sbjct  2   SRDSSGNHPV  11
+
+
+> id_2400
+Length=19
+
+ Score = 16.5 bits (31),  Expect = 1.3, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  2   SRDTSGYH  9
+           SRD SGY+
+Sbjct  11  SRDPSGYN  18
+
+
+> id_8977
+Length=11
+
+ Score = 16.5 bits (31),  Expect = 1.4, Method: Compositional matrix adjust.
+ Identities = 7/11 (64%), Positives = 7/11 (64%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           NSRD  G H V
+Sbjct  1   NSRDNIGNHQV  11
+
+
+> id_11972
+Length=11
+
+ Score = 16.2 bits (30),  Expect = 2.0, Method: Compositional matrix adjust.
+ Identities = 6/11 (55%), Positives = 9/11 (82%), Gaps = 0/11 (0%)
+
+Query  1   NSRDTSGYHLV  11
+           +SRD SG H++
+Sbjct  1   SSRDRSGNHVL  11
+
+
+> id_6280
+Length=13
+
+ Score = 15.8 bits (29),  Expect = 2.7, Method: Compositional matrix adjust.
+ Identities = 4/8 (50%), Positives = 8/8 (100%), Gaps = 0/8 (0%)
+
+Query  2  SRDTSGYH  9
+          ++DTSG++
+Sbjct  1  AKDTSGWY  8
+
+
+> id_1208
+Length=12
+
+ Score = 15.4 bits (28),  Expect = 5.5, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  2  SRDTSGY  8
+          +RD SGY
+Sbjct  1  ARDNSGY  7
+
+
+> id_1084
+Length=18
+
+ Score = 15.0 bits (27),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 5/6 (83%), Positives = 6/6 (100%), Gaps = 0/6 (0%)
+
+Query  4   DTSGYH  9
+           DTSGY+
+Sbjct  6   DTSGYY  11
+
+
+> id_11764
+Length=9
+
+ Score = 15.0 bits (27),  Expect = 9.0, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  2  SRDTSGYH  9
+          SRD  GY+
+Sbjct  1  SRDVGGYN  8
+
+
+> id_1428
+Length=18
+
+ Score = 15.0 bits (27),  Expect = 9.0, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  2   SRDTSGY  8
+           SRD SG+
+Sbjct  6   SRDNSGF  12
+
+
+> id_1308
+Length=15
+
+ Score = 15.0 bits (27),  Expect = 9.7, Method: Compositional matrix adjust.
+ Identities = 4/7 (57%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  2  SRDTSGY  8
+          +RD+SG+
+Sbjct  1  ARDSSGW  7
+
+
+> id_1498
+Length=18
+
+ Score = 15.0 bits (27),  Expect = 9.8, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  4   DTSGYHL  10
+           D+SGY L
+Sbjct  10  DSSGYRL  16
+
+
+
+Lambda      K        H        a         alpha
+   0.312    0.128    0.374    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1432651
+
+
+  Database: all_CDR_seq_uniq.fasta
+    Posted date:  Dec 27, 2023  2:52 AM
+  Number of letters in database: 130,241
+  Number of sequences in database:  13,006
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

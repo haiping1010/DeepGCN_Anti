@@ -1,0 +1,1000 @@
+ 1048  ls
+ 1049  vi docking.sh 
+ 1050  grep HTVS *
+ 1051  grep htvs *
+ 1052  ls
+ 1053  vi docking.sh
+ 1054  ls
+ 1055  cd work8
+ 1056  ls
+ 1057  cd usage_zhangting_all_figure_DP2_redo
+ 1058  ls
+ 1059  bash run_all_n.bash 
+ 1060  ls
+ 1061  vi table_000001.csv 
+ 1062  ls
+ 1063  cd ../
+ 1064  ls
+ 1065  cd usage_zhangting_all
+ 1066  ls
+ 1067  cd ../
+ 1068  cd usage_zhangting_all_figure_all
+ 1069  ls
+ 1070  rm table_*
+ 1071  ls
+ 1072  nohup bash run_all_n.bash &
+ 1073  top
+ 1074  lspci|grep-ivga1
+ 1075  lspci | grep -i vga
+ 1076  nvidia-smi
+ 1077  lspci | grep -i nvidia
+ 1078  lspci| grep  -i vga
+ 1079  lspci | grep -i nvidia
+ 1080  nvida-smi -L
+ 1081  nvidia-smi -L
+ 1082  cd program
+ 1083  ls
+ 1084  cd torch
+ 1085  l
+ 1086  cd Graph_PDbind_net/
+ 1087  ls
+ 1088  cd all_
+ 1089  cd all_finished/
+ 1090  ls
+ 1091  cd work3_VS_n_general_TIPE3_gcn_RG_cutoff0.8_test_speed
+ 1092  ls
+ 1093  cd ../
+ 1094  find .  -name *cpu*.py
+ 1095  cd ../
+ 1096  find .  -name *cpu*.py
+ 1097  find .  -name *CPU*.py
+ 1098  cd all_finished/
+ 1099  ls
+ 1100  cd work3_VS_n_general_TIPE3_gcn_BC_cutoff0.6_test_speed
+ 1101  ls
+ 1102  vi training_nn3_load_name_speed.py
+ 1103  cp -r training_nn3_load_name_speed.py  training_nn3_load_name_speed_CPU.py
+ 1104  vi training_nn3_load_name_speed_CPU.py
+ 1105  cd ../
+ 1106  ls */*CPU*.py
+ 1107  vi work3_VS_n_general_DNA_pks_gcn_RG_cutoff0.8/training_nn3_load_name_CPU.py
+ 1108  diff work3_VS_n_general_DNA_pks_gcn_RG_cutoff0.8/training_nn3_load_name_CPU.py  work3_VS_n_general_TIPE3_gcn_BC_cutoff0.6_test_speed/training_nn3_load_name_speed_CPU.py
+ 1109  cd work3_VS_n_general_TIPE3_gcn_BC_cutoff0.6_test_speed/
+ 1110  vi training_nn3_load_name_speed_CPU.py 
+ 1111  python training_nn3_load_name_speed_CPU.py
+ 1112  conda activate GraphDTA
+ 1113  python training_nn3_load_name_speed_CPU.py
+ 1114  grep training_nn3_load_name *.bash
+ 1115  cp -r test.bash test_CPU.bash 
+ 1116  vi test_CPU.bash 
+ 1117  bash test_CPU.bash 
+ 1118  nohup bash test_CPU.bash  &
+ 1119  top
+ 1120  ls
+ 1121  cd ../
+ 1122  ls
+ 1123  cd work3_VS_n_general_TIPE3_gcn_RG_cutoff0.8_test_speed
+ 1124  cp -r ../work3_VS_n_general_TIPE3_gcn_BC_cutoff0.6_test_speed/test_CPU.bash .
+ 1125  cp -r ../work3_VS_n_general_TIPE3_gcn_BC_cutoff0.6_test_speed/training_nn3_load_name_speed_CPU.py .
+ 1126  python training_nn3_load_name_speed_CPU.py 
+ 1127  bash test_CPU.bash 
+ 1128  ls
+ 1129  cd work8
+ 1130  ls
+ 1131  cd usage_zhangting_all_figure_all
+ 1132  ls
+ 1133  cd 
+ 1134  vi output_2022.9.7_pe.txt 
+ 1135  ls
+ 1136  cd work8
+ 1137  ls
+ 1138  cd usage_zhangting_all_figure_all
+ 1139  ls
+ 1140  python combine_n_fig.py 
+ 1141  python combine_n_fig.py  >~/output_2022.9.7.txt
+ 1142  cd 
+ 1143  conda activate py3.7
+ 1144  ls *pe.txt
+ 1145  ls *pe.py
+ 1146  python test_pe.py   output_2022.9.7.txt  > output_2022.9.7_pe.txt
+ 1147  nohup python test_pe.py   output_2022.9.7.txt  > output_2022.9.7_pe.txt &
+ 1148  cat output_2022.9.7_pe.txt 
+ 1149  top
+ 1150  cat output_2022.9.7_pe.txt 
+ 1151  kill -9 57292
+ 1152  nohup python test_pe.py   output_2022.9.7.txt  > output_2022.9.7_pe.txt 2>&1&
+ 1153  top
+ 1154  ls
+ 1155  vi output_2022.9.7.txt 
+ 1156  ls
+ 1157  top
+ 1158  ls
+ 1159  cd  program
+ 1160  ls
+ 1161  cd torch
+ 1162  ls
+ 1163  cd Graph_PDbind_net
+ 1164  ls
+ 1165  cd all_finished/
+ 1166  ls
+ 1167  top
+ 1168  ls
+ 1169  cd all_pdb_all_n_test_check_final_bc_affinity_vec30xx_cutoff0.8
+ 1170  ls
+ 1171  vi read_smi_protein_nnn.py 
+ 1172  cd ../
+ 1173  ls
+ 1174  cd all_pdb_all_n_test_check_final_2022_6_vec_30xx_cutoff0.6
+ 1175  ls
+ 1176  cp -r read*.py /home/zhanghaiping/work_package/PP_data/3Dcomplex/test_pocket_save
+ 1177  ls
+ 1178  cp -r run_all*.bash /home/zhanghaiping/work_package/PP_data/3Dcomplex/test_pocket_save
+ 1179  cd work_package
+ 1180  ls
+ 1181  cd PP_data/
+ 1182  ls
+ 1183  cd 3Dcomplex/
+ 1184  ls
+ 1185  cd complex/
+ 1186  ls
+ 1187  vi run_all_n.bash 
+ 1188  vi contactDefinition_nn.txt
+ 1189  top
+ 1190  vi contactDefinition_nn.txt
+ 1191  vi run_all_n.bash 
+ 1192  ls
+ 1193  vi contactDefinition_nn.txt
+ 1194  bc
+ 1195  tail -n 70670  contactDefinition_nn.txt  >  contactDefinition_nn_rest.txt
+ 1196  vi run_all_n.bash 
+ 1197  nohup bash run_all_n.bash &
+ 1198  top
+ 1199  cd ../
+ 1200  ls
+ 1201  cd test_code/
+ 1202  ls
+ 1203  cd ../
+ 1204  ls
+ 1205  mkdir test_pocket_save
+ 1206  ls
+ 1207  cd test_pocket_save/
+ 1208  ls
+ 1209  cp -r ../complex/*_poc.pdb .
+ 1210  ls
+ 1211  rm -rf 1a{3..9}*
+ 1212  ls
+ 1213  cp -r ../contactDefinition_nn.txt .
+ 1214  ls
+ 1215  pwd
+ 1216  ls
+ 1217  top
+ 1218  ls
+ 1219  vi contactDefinition_nn.txt
+ 1220  ls
+ 1221  vi contactDefinition_nn.txt
+ 1222  head -n 80 > test.txt
+ 1223  head -n 80 contactDefinition_nn.txt > test.txt
+ 1224  ls
+ 1225  vi read_smi_protein_nnn.py
+ 1226  top
+ 1227  ls
+ 1228  vi read_smi_protein_nnn.py
+ 1229  top
+ 1230  vi read_smi_protein_nnn.py
+ 1231  ls
+ 1232  cp -r ~/program/torch/Graph_PDbind_net/all_finished/all_pdb_all_n_test_check_final_2022_6_vec_30xx_cutoff0.6/aa_vec_dic.npy .
+ 1233  ls
+ 1234  vi run_all_pos.bash 
+ 1235  vi read_smi_protein.py
+ 1236  top
+ 1237  ls
+ 1238  vi run_all_pos.bash 
+ 1239  vi read_smi_protein_nnn.py 
+ 1240  python read_smi_protein_nnn.py 
+ 1241  conda activate GraphDTA
+ 1242  nohup python read_smi_protein_nnn.py &
+ 1243  cd ~/work_package/PP_data/3Dcomplex/test_pocket_save
+ 1244  ls
+ 1245  cat nohup.out 
+ 1246  vi read_smi_protein_nnn.py 
+ 1247  ls
+ 1248  top
+ 1249  ls
+ 1250  python read_smi_protein_nnn.py
+ 1251  conda activate GraphDTA
+ 1252  python read_smi_protein_nnn.py
+ 1253  vi  read_smi_protein_nnn.py
+ 1254  top
+ 1255  ls
+ 1256  python read_smi_protein_nnn.py 
+ 1257  vi  read_smi_protein_nnn.py
+ 1258  python read_smi_protein_nnn.py 
+ 1259  vi  read_smi_protein_nnn.py
+ 1260  python read_smi_protein_nnn.py 
+ 1261  vi  read_smi_protein_nnn.py
+ 1262  python read_smi_protein_nnn.py 
+ 1263  vi  read_smi_protein_nnn.py
+ 1264  python read_smi_protein_nnn.py 
+ 1265  ls
+ 1266  wc *.pdb
+ 1267  ls
+ 1268  ls data1/
+ 1269  ls data1/processed/
+ 1270  pwd
+ 1271  ls
+ 1272  wc *.pdb
+ 1273  ls
+ 1274  wc *.pdb  | sort
+ 1275  ls
+ 1276  vi problem.txt
+ 1277  cp -r ~/work_package/work3_VS_n_4q9v_TIP3_zinc/zinc_download/wget_sdf.bash  .
+ 1278  vi wget_sdf.bash 
+ 1279  ls
+ 1280  vi problem.txt 
+ 1281  vi wget_sdf.bash 
+ 1282  vi problem.txt 
+ 1283  vi wget_sdf.bash 
+ 1284  bash wget_sdf.bash 
+ 1285  vi wget_sdf.bash 
+ 1286  bash wget_sdf.bash 
+ 1287  vi wget_sdf.bash 
+ 1288  bash wget_sdf.bash 
+ 1289  vi wget_sdf.bash 
+ 1290  bahs wget_sdf.bash 
+ 1291  bash wget_sdf.bash 
+ 1292  ls
+ 1293  python read_smi_protein_nnn.py
+ 1294  ls
+ 1295  vi contactDefinition_nn.txt 
+ 1296  ls *_poc.pdb
+ 1297  ls *_poc.pdb > list.txt
+ 1298  awk -F "_" '{print $1'_'$2}' list.txt 
+ 1299  awk -F "_" '{print $1"_"$2}' list.txt 
+ 1300  awk -F "_" '{print $1"_"$2}' list.txt  | uniq
+ 1301  awk -F "_" '{print $1"_"$2}' list.txt  | uniq  > list_final.txt
+ 1302  vi list_final.txt 
+ 1303  cp -r  ~/compare.py .
+ 1304  vi compare.py 
+ 1305  python compare.py  contactDefinition_nn.txt  list_final.txt 
+ 1306  vi compare.py 
+ 1307  python compare.py  contactDefinition_nn.txt  list_final.txt 
+ 1308  vi compare.py 
+ 1309  python compare.py  contactDefinition_nn.txt  list_final.txt 
+ 1310  python compare.py  contactDefinition_nn.txt  list_final.txt   > list_final_nn.txt 
+ 1311  ls
+ 1312  vi read_smi_protein_nnn.py 
+ 1313  vi test.txt 
+ 1314  wc test.txt 
+ 1315  wc list_final_nn.txt 
+ 1316  vi read_smi_protein_nnn.py 
+ 1317  python read_smi_protein_nnn.py 
+ 1318  vi read_smi_protein_nnn.py 
+ 1319  vi list_final_nn.txt 
+ 1320  python read_smi_protein_nnn.py 
+ 1321  ls
+ 1322  ls data1/
+ 1323  ls data1/processed/
+ 1324  ls
+ 1325  pwd
+ 1326  cd ../
+ 1327  ls
+ 1328  cd complex/
+ 1329  ls
+ 1330  vi contactDefinition_nn.txt 
+ 1331  bc
+ 1332  tail -n 51497  contactDefinition_nn.txt >  contactDefinition_nn_rest.txt 
+ 1333  vi run_all_n.bash 
+ 1334  rm nohup.out 
+ 1335  nohup bash run_all_n.bash &
+ 1336  top
+ 1337  cd 
+ 1338  ls
+ 1339  cd work8
+ 1340  ls
+ 1341  cd usage_zhangting_all_figure_DP2_redo
+ 1342  ls
+ 1343  bash run_all_n.bash 
+ 1344  conda deactivate 
+ 1345  bash run_all_n.bash 
+ 1346  ls
+ 1347  cd ../
+ 1348  ls
+ 1349  cd usage_zhangting_all_figure_all
+ 1350  ls
+ 1351  rm table_*.png
+ 1352  ls
+ 1353  rm table_*.csv
+ 1354  ls
+ 1355  vi run_all_n.bash 
+ 1356  rm nohup.out 
+ 1357  nohup bash run_all_n.bash  &
+ 1358  ls
+ 1359  top
+ 1360  ls
+ 1361  top
+ 1362  ls
+ 1363  cd program
+ 1364  ls
+ 1365  cd 
+ 1366  cd work8
+ 1367  ls
+ 1368  cd usage_zhangting_all_figure_all
+ 1369  ls
+ 1370  vi run_all_nxx.bash 
+ 1371  nohup bash  run_all_nxx.bash  &
+ 1372  ls
+ 1373  ls *.png
+ 1374  top
+ 1375  ls
+ 1376  ls *.png
+ 1377  ls
+ 1378  top
+ 1379  ls
+ 1380  cd work8
+ 1381  ls
+ 1382  cd usage_zhangting_all_figure_all
+ 1383  ls
+ 1384  python combine_n_fig.py 
+ 1385  python combine_n_fig.py  |wc
+ 1386  python combine_n_fig.py > ~/output_2022.9.8.txt
+ 1387  cd work8
+ 1388  ls
+ 1389  cd usage_zhangting_all_figure_DP2_redo
+ 1390  ls
+ 1391  bash run_all_n.bash 
+ 1392  ls
+ 1393  cd ../
+ 1394  ls
+ 1395  cd usage_zhangting_all_figure_all
+ 1396  ls
+ 1397  rm table_*
+ 1398  ls
+ 1399  nohup bash run_all_n.bash &
+ 1400  ls
+ 1401  cd program
+ 1402  ls
+ 1403  cd torch
+ 1404  ls
+ 1405  cd Graph_PDbind_net
+ 1406  ls
+ 1407  cd all_finished/
+ 1408  ls
+ 1409  cd all_pdb_all_n_test_check_final_bc_affinity_vec30xx_cutoff0.8_rm_core_set
+ 1410  ls
+ 1411  vi training_nn3_affinity.py
+ 1412  ls
+ 1413  cd ../
+ 1414  ls
+ 1415  cd all_pdb_all_n_test_check_final_bc_affinity_vec30xx_cutoff0.8_rm_core_set_test_2013
+ 1416  ls
+ 1417  cd all_data/
+ 1418  ls
+ 1419  ls *_poc.pdb|wc
+ 1420  cd ../../
+ 1421  ls
+ 1422  cd all_pdb_all_n_test_check_final_bc_affinity_vec30xx_cutoff0.8_rm_core_set_test_2016
+ 1423  ls
+ 1424  cd all_data/
+ 1425  ls
+ 1426  ls *_poc.pdb |wc
+ 1427  vi temT.txt 
+ 1428  cd ../
+ 1429  ls
+ 1430  cd ../
+ 1431  ls
+ 1432  cd  work_package2
+ 1433  ls
+ 1434  cd pMD_run_redo_TIPE3_n_large
+ 1435  ls
+ 1436  cd ../
+ 1437  cd pMD_run_redo_TIPE3_n_large/
+ 1438  ls
+ 1439  cd analysis_redo/
+ 1440  ls
+ 1441  cd ../
+ 1442  ls
+ 1443  cd ../
+ 1444  MD_complex_TIPE3_full_database/
+ 1445  ls
+ 1446  cd MD_complex_TIPE3_full_database/
+ 1447  ls
+ 1448  ls analysis_meta
+ 1449  ls
+ 1450  cd analysis_meta_sel_noshift
+ 1451  ls
+ 1452  cd ../
+ 1453  cd analysis_redo/
+ 1454  ls
+ 1455  pwd
+ 1456  vi rmsd.p 
+ 1457  vi run_x.bash 
+ 1458  rm *.png
+ 1459  ls
+ 1460  bash run_x.bash 
+ 1461  ls
+ 1462  pwd
+ 1463  ls
+ 1464  pwd
+ 1465  LS
+ 1466  ls
+ 1467  cd  work_package2
+ 1468  ls
+ 1469  cd pMD_run_redo_PDL1_n_large
+ 1470  ls
+ 1471  cd analysis_redo/
+ 1472  ls
+ 1473  display SA24-0241_run_rms_out.png
+ 1474  ls
+ 1475  ls *.p
+ 1476  vi rmsd.p
+ 1477  ls
+ 1478  vi run_x.bash 
+ 1479  ls
+ 1480  vi run_x.bash 
+ 1481  bash run_x.bash 
+ 1482  ls
+ 1483  pwd
+ 1484  vi rmsd.p
+ 1485  ls
+ 1486  cd program
+ 1487  ls
+ 1488  cd torch
+ 1489  ls
+ 1490  cd Graph_PDbind_net/
+ 1491  ls
+ 1492  cd all_finished/
+ 1493  ls
+ 1494  mkdir DeepBindGCN_BC_example
+ 1495  mkdir DeepBindGCN_RG_example
+ 1496  ls
+ 1497  nohup cp -r work3_VS_n_general_TIPE3_gcn_BC_cutoff0.6/*  DeepBindGCN_BC_example/ &
+ 1498  nohup cp -r work3_VS_n_general_TIPE3_gcn_RG_cutoff0.8/*  DeepBindGCN_RG_example/ &
+ 1499  top
+ 1500  ls
+ 1501  cd DeepBindGCN_BC_example/
+ 1502  ls
+ 1503  du -h
+ 1504  ls
+ 1505  rm -rf VINA3/
+ 1506  ls
+ 1507  cd VINA3/
+ 1508  ls
+ 1509  cd Docking/
+ 1510  ls
+ 1511  ls 5777-0198
+ 1512  ls
+ 1513  cd ../
+ 1514  ls
+ 1515  cd ../
+ 1516  ls
+ 1517  rm old/
+ 1518  rm -rf old/
+ 1519  ls
+ 1520  cd ../
+ 1521  ls
+ 1522  cd DeepBindGCN_RG_example/
+ 1523  ls
+ 1524  ls all_file/
+ 1525  ls
+ 1526  cd ../
+ 1527  history | grep cp
+ 1528  ls work3_VS_n_general_TIPE3_gcn_RG_cutoff0.8/
+ 1529  ls
+ 1530  cd DeepBindGCN_BC_example/
+ 1531  ls
+ 1532  mkdir tem
+ 1533  mv *_BA_*  tem/
+ 1534  ls
+ 1535  rm -rf output*.txt
+ 1536  ls
+ 1537  rm L_P_train_*.log
+ 1538  ls
+ 1539  mv BA.log tem/
+ 1540  ls
+ 1541  rm BB.log 
+ 1542  ls
+ 1543  rm *.log 
+ 1544  ls
+ 1545  rm nohup.out 
+ 1546  ls
+ 1547  cd all_file/
+ 1548  ls
+ 1549  du -h
+ 1550  ls
+ 1551  mkdir tem
+ 1552  mv BA*  tem
+ 1553  ls
+ 1554  rm *.npy *.smi 
+ 1555  ls
+ 1556  mv tem/*  .
+ 1557  ls
+ 1558  rm tem -rf 
+ 1559  ls
+ 1560  rm nohup.out 
+ 1561  ls
+ 1562  du -h
+ 1563  ls
+ 1564  du -h
+ 1565  ls
+ 1566  du -h
+ 1567  cd ../
+ 1568  ls
+ 1569  du -h
+ 1570  rm -rf VINA3
+ 1571  ls
+ 1572  rm -rf VINA3_clus_cent* zinc_download*
+ 1573  ls
+ 1574  du -h
+ 1575  ls
+ 1576  cd data1/
+ 1577  ls
+ 1578  cd processed/
+ 1579  ls
+ 1580  mkdir tem
+ 1581  mv L_P_train_BA.pt   tem/
+ 1582  ls
+ 1583  rm L_P_train_*.pt
+ 1584  ls
+ 1585  mv tem/* .
+ 1586  ls
+ 1587  rm -rf tem/
+ 1588  ls
+ 1589  cd ../
+ 1590  ls
+ 1591  du -h
+ 1592  ls
+ 1593  rm -rf run_all_n.bash  run_all_predict.bash  run_all2.bash  run_all3.bash  run_all3_rerun2.bash  run_all3_rerun3.bash  run_all3_rerun.bash  deep_dense_FC_load.py  deep_dense_FC.py
+ 1594  ls
+ 1595  du -h
+ 1596  ls
+ 1597  ls all_file/
+ 1598  cd all_file/
+ 1599  ll
+ 1600  ls
+ 1601  rm xxxx_pocVec.txt 
+ 1602  ls
+ 1603  cd ../
+ 1604  ls
+ 1605  du -h
+ 1606  ls
+ 1607  ls tem/
+ 1608  ls
+ 1609  rm tem/
+ 1610  rm -fr tem
+ 1611  ls
+ 1612  cd ../
+ 1613  ls
+ 1614  cd DeepBindGCN_RG_example/
+ 1615  ls
+ 1616  rm -rf VINA3* zinc_download* 
+ 1617  ls
+ 1618  rm output_*.txt
+ 1619  ls
+ 1620  rm run_all3*
+ 1621  ls
+ 1622  rm run_all2.bash run_all.bash 
+ 1623  ls
+ 1624  rm L_P_train_*.log
+ 1625  ls
+ 1626  rm -rf old/
+ 1627  ls
+ 1628  ls __pycache__/
+ 1629  ls
+ 1630  rm -r __pycache__/
+ 1631  ls
+ 1632  du -h
+ 1633  ls
+ 1634  rm -rf *.log
+ 1635  ls
+ 1636  rm -rf all_pdb_affinity_onhotxx_cutoff0.8  all_pdb_all_n_test_check_final_bc_affinity_vec30xx_cutoff0.8_rm_refine
+ 1637  ls
+ 1638  rm nohup.out 
+ 1639  rm model1_complex.pdb 
+ 1640  ls
+ 1641  cd all_file/
+ 1642  ls
+ 1643  rm ??.smi
+ 1644  ls
+ 1645  rm *.npy
+ 1646  ls
+ 1647  du -h
+ 1648  mkdir tem
+ 1649  mv BA_n.smi  tem/
+ 1650  ls
+ 1651  rm *.smi
+ 1652  ls
+ 1653  mv tem/BA_n.smi .
+ 1654  ls
+ 1655  rm -rf tem
+ 1656  ls
+ 1657  vi BA_n.smi 
+ 1658  ls
+ 1659  rm nohup.out 
+ 1660  ls
+ 1661  rm xxxx_pocVec.txt 
+ 1662  ls
+ 1663  cd ../
+ 1664  ls
+ 1665  du -h
+ 1666  ls
+ 1667  rm -rf data1/
+ 1668  du -h
+ 1669  ls
+ 1670  vi run.bash 
+ 1671  rm run.bash 
+ 1672  vi run_run.bash 
+ 1673  rm run_run.bash 
+ 1674  ls
+ 1675  rm deep_dense_FC*.py
+ 1676  ls
+ 1677  rm all_out*
+ 1678  ls
+ 1679  rm run_all_n.bash  run_all_predict.bash  score_sort8.6.bash  score_sort8.bash  score_sort.bash
+ 1680  ls
+ 1681  rm xxxx_pocVec.txt 
+ 1682  ls
+ 1683  du -h
+ 1684  vi training_nn3_load_name.py
+ 1685  ls
+ 1686  du -h
+ 1687  cd ../
+ 1688  ls
+ 1689  cd DeepBindGCN_RG_example/
+ 1690  ls
+ 1691  cd ../DeepBindGCN_BC_example/
+ 1692  ls
+ 1693  cd all_file/
+ 1694  ls
+ 1695  rm BA.smi BA_n_dict.npy 
+ 1696  ls
+ 1697  vi run_all_dic.bash 
+ 1698  vi convert_smi_all.bash 
+ 1699  ls
+ 1700  grep read_smi_protein_nnn_usage.py  *
+ 1701  rm read_smi_protein_nnn_usage.py  training_nn3_load_name.py
+ 1702  ls
+ 1703  cd ../
+ 1704  ls
+ 1705  vi score_sort.bash 
+ 1706  rm score_sort.bash
+ 1707  ls
+ 1708  rm -rf read_smi_protein_nnn_usage_test1.py  model1_complex.pdb  data1  __pycache__  run.bash 
+ 1709  ls
+ 1710  du -h
+ 1711  cd pocket/
+ 1712  ls
+ 1713  du -h
+ 1714  ls
+ 1715  rm 4q9v_pocVec.txt
+ 1716  ls
+ 1717  vi test_poc.py 
+ 1718  rm test_poc.py 
+ 1719  ls
+ 1720  rm extract_pocket_cord.py 
+ 1721  ls
+ 1722  vi run_rmsf_new.bash 
+ 1723  rm run_rmsf_new.bash 
+ 1724  ls
+ 1725  rm bach_mol2vec_5HF.bash 
+ 1726  ls
+ 1727  vi readme.txt 
+ 1728  rm readme.txt 
+ 1729  ls
+ 1730  cd ../
+ 1731  ls
+ 1732  rm xxxx_pocVec.txt 
+ 1733  ls
+ 1734  du -h
+ 1735  cd models/
+ 1736  ls
+ 1737  cd ../
+ 1738  ls
+ 1739  rm all_out*
+ 1740  ls
+ 1741  rm all_xx.txt 
+ 1742  ls
+ 1743  du -h
+ 1744  ls
+ 1745  cd ../
+ 1746  cd DeepBindGCN_RG_example/
+ 1747  ls
+ 1748  vi readme.txt
+ 1749  ls all_file/
+ 1750  vi all_file/convert_smi_all.bash 
+ 1751  rm all_file/convert_smi_all.bash 
+ 1752  vi all_file/rename.bash 
+ 1753  rm all_file/rename.bash 
+ 1754  vi all_file/run_all_dic.bash 
+ 1755  vi readme.txt 
+ 1756  ls
+ 1757  ls all_file/
+ 1758  ls
+ 1759  vi run_all_n_add.bash 
+ 1760  vi read_smi_protein_nnn_usage.py
+ 1761  ls
+ 1762  vi readme.txt 
+ 1763  ls pocket/
+ 1764  rm pocket/extract_pocket_cord.py 
+ 1765  rm pocket/test_poc.py 
+ 1766  rm pocket/run_rmsf_new.bash 
+ 1767  ls
+ 1768  rm pocket/complex1.pdb 
+ 1769  pwd
+ 1770  ls pocket/
+ 1771  rm pocket/bach_mol2vec_5HF.bash 
+ 1772  vi readme.txt 
+ 1773  ls
+ 1774  vi run_all_n_add.bash 
+ 1775  vi readme.txt 
+ 1776  cp -r readme.txt  ../DeepBindGCN_BC_example/
+ 1777  cd ../DeepBindGCN_BC_example/
+ 1778  ls
+ 1779  rm run_run.bash 
+ 1780  rm run_all.bash 
+ 1781  ls
+ 1782  vi readme.txt 
+ 1783  ls
+ 1784  ls pocket/
+ 1785  rm pocket/complex1.pdb 
+ 1786  ls
+ 1787  ls all_file/
+ 1788  ls
+ 1789  ls all_file/
+ 1790  rm all_file/rename.bash 
+ 1791  ls
+ 1792  du -h
+ 1793  pwd
+ 1794  ls
+ 1795  cd work8/
+ 1796  ls
+ 1797  cd 
+ 1798  cd program
+ 1799  ls
+ 1800  cd torch
+ 1801  ls
+ 1802  cd Graph_PDbind_net/
+ 1803  ls
+ 1804  cd 
+ 1805  cd work_package
+ 1806  ls
+ 1807  cd PP_data/
+ 1808  ls
+ 1809  cd 3Dcomplex/
+ 1810  ls
+ 1811  cd complex/
+ 1812  ls
+ 1813  top
+ 1814  ls
+ 1815  nohup wc *_poc.pdb > check_empty.txt 2>&1&
+ 1816  cat check_empty.txt 
+ 1817  vi check_empty.txt 
+ 1818  rm check_empty.txt 
+ 1819  for i in {1..9};do  wc $i*'_poc.pdb' >> check_empty.txt  ; echo $i; done
+ 1820  vi check_empty.txt 
+ 1821  rm check_empty.txt 
+ 1822  vi check_empty.bash
+ 1823  rm nohup.out 
+ 1824  nohup bash check_empty.bash &
+ 1825  cat nohup.out 
+ 1826  cat check_empty.txt 
+ 1827  cat check_empty.txt  |wc
+ 1828  top
+ 1829  ls
+ 1830  cd work_package2
+ 1831  ls
+ 1832  cd 
+ 1833  cd program
+ 1834  ls
+ 1835  cd 
+ 1836  cd work_package
+ 1837  ls
+ 1838  cd PP_data/
+ 1839  ls
+ 1840  cd 3Dcomplex/
+ 1841  ls
+ 1842  cd complex/
+ 1843  ls
+ 1844  wc check_empty.txt 
+ 1845  vi check_empty.txt 
+ 1846  grep "        0         0         0 11bg_2_A_poc.pdb"
+ 1847  grep "        0         0         0"  check_empty.txt 
+ 1848  grep "        0         0         0"  check_empty.txt  |wc
+ 1849  grep "        0         0         0"  check_empty.txt  > problem_empty.txt
+ 1850  vi problem_empty.txt 
+ 1851  cp -r wget.bash  mv.bash
+ 1852  vi mv.bash 
+ 1853  bash mv.bash 
+ 1854  vi mv.bash 
+ 1855  ls problem_empty
+ 1856  nohup bash mv.bash &
+ 1857  top
+ 1858  cd ~/work_package/PP_data/3Dcomplex/complex
+ 1859  ls
+ 1860  nohup bash run_all_pos.bash &
+ 1861  cat nohup.out 
+ 1862  ls 1jah_1_A_poc.pdb
+ 1863  cat nohup.out 
+ 1864  top
+ 1865  conda activate GraphDTA
+ 1866  rm nohup.out 
+ 1867  nohup bash run_all_pos.bash &
+ 1868  cat nohup.out 
+ 1869  top
+ 1870  cat nohup.out 
+ 1871  vi run_all_pos.bash 
+ 1872  vi outT_10.log 
+ 1873  vi temT_10.txt 
+ 1874  wc 3u9g_2*poc.pdb
+ 1875  vi temT_10.txt 
+ 1876  wc 3u9g_2*poc.pdb
+ 1877  grep 3u9g_2  *.txt
+ 1878  ls 3u9g_2_A_poc.pdb
+ 1879  vi mv.bash 
+ 1880  vi problem_empty.txt 
+ 1881  vi check_empty.txt 
+ 1882  wc problem_empty.txt 
+ 1883  grep '0         0         0'  check_empty.txt |wc
+ 1884  vi check_empty.txt 
+ 1885  grep '0         0         0'  check_empty.txt |wc
+ 1886  grep '0         0         0'  check_empty.txt |grep 3u9g
+ 1887  grep '0         0         0'  check_empty.txt |wc
+ 1888  wc problem_empty.txt 
+ 1889  vi   check_empty.txt 
+ 1890  grep '0          0          0' problem_empty.txt 
+ 1891  vi problem_empty.txt 
+ 1892  grep '0          0          0' check_empty.txt |wc
+ 1893  vi check_empty.txt 
+ 1894  sort check_empty.txt 
+ 1895  sort check_empty.txt  > check_empty_n.txt
+ 1896  vi check_empty_n.txt 
+ 1897  head -n 45440  check_empty_n.txt problem_empty_xxx.txt
+ 1898  head -n 45440  check_empty_n.txt > problem_empty_xxx.txt
+ 1899  history | grep awk
+ 1900  awk -F " " '{print $5}'   problem_empty_xxx.txt 
+ 1901  awk -F " " '{print $4}'   problem_empty_xxx.txt 
+ 1902  awk -F " " '{print $4}'   problem_empty_xxx.txt  > problem_empty.txt 
+ 1903  history | grep uniq
+ 1904  vi split_temT.py 
+ 1905  awk -F "_" '{print $1"_"$2}'  problem_empty.txt > all_select_uniq.txt 
+ 1906  awk -F "_" '{print $1"_"$2}'  problem_empty.txt | sort | uniq > all_select_uniq.txt 
+ 1907  wc all_select_uniq.txt 
+ 1908  rm all_select_uniq.txt 
+ 1909  vi problem_empty.txt 
+ 1910  vi mv.bash 
+ 1911  bash mv.bash 
+ 1912  ls
+ 1913  history | grep for
+ 1914  for i in {1..9};do   ls $i*'_poc.pdb' >> select.txt ; echo $i ; done
+ 1915  vi select.txt 
+ 1916  history | grep awk
+ 1917  awk -F "_" '{print $1"_"$2}'  select.txt   | sort | uniq > all_select_uniq.txt
+ 1918  mv all_select_uniq.txt  select_uniq.txt
+ 1919  history | grep python
+ 1920  python compare.py  contactDefinition_nn.txt  all_select_uniq.txt
+ 1921  awk -F "_" '{print $1"_"$2}'  select.txt   | sort | uniq > all_select_uniq.txt\
+ 1922  awk -F "_" '{print $1"_"$2}'  select.txt   | sort | uniq > all_select_uniq.txt
+ 1923  vi all_select_uniq.txt 
+ 1924  python compare.py  contactDefinition_nn.txt  all_select_uniq.txt
+ 1925  awk -F "_" '{print $1"_"$2}'  select.txt   | sort | uniq > select_uniq.txt
+ 1926  nohup python compare.py  contactDefinition_nn.txt  select_uniq.txt  > all_select_uniq.txt 2>&1&
+ 1927  cat all_select_uniq.txt 
+ 1928  wc all_select_uniq.txt 
+ 1929  top
+ 1930  ls
+ 1931  top
+ 1932  ls
+ 1933  cd program
+ 1934  cd 
+ 1935  cd work_package
+ 1936  cd 
+ 1937  cd work_package
+ 1938  ls
+ 1939  cd PP_data/
+ 1940  ls
+ 1941  cd 3Dcomplex/
+ 1942  ls
+ 1943  cd complex/
+ 1944  ls
+ 1945  wc *_poc.pdb 
+ 1946  ls problem_empty/
+ 1947  ls 5yas_3_B_poc.pdb
+ 1948  ls
+ 1949  history | grep for
+ 1950  for i in {1..9};do  ls  $i*'_poc.pdb' >> select.txt  ; echo $i; done
+ 1951  vi select.txt 
+ 1952  awk -F "_"  '{print $1"_"$2}'  select.txt 
+ 1953  awk -F "_"  '{print $1"_"$2}'  select.txt | sort | uniq
+ 1954  awk -F "_"  '{print $1"_"$2}'  select.txt | sort | uniq > select_uniq.txt 
+ 1955  cp -r ../test_pocket_save/compare.py .
+ 1956  ls *.txt
+ 1957  python compare.py  select_uniq.txt  contactDefinition_nn.txt
+ 1958  python compare.py contactDefinition_nn.txt  select_uniq.txt  
+ 1959  python compare.py contactDefinition_nn.txt  select_uniq.txt   |wc
+ 1960  nohup python compare.py contactDefinition_nn.txt  select_uniq.txt   > all_select_uniq.txt  2>&1&
+ 1961  wc all_select_uniq.txt 
+ 1962  cat all_select_uniq.txt 
+ 1963  ls
+ 1964  ls ~/program/torch/Graph_PDbind_net/refined-set_test/
+ 1965  ls ~/program/torch/Graph_PDbind_net/all_finished/
+ 1966  ls
+ 1967  ls ~/program/torch/Graph_PDbind_net/all_finished/
+ 1968  ls ~/program/torch/Graph_PDbind_net/all_finished/all_pdb_all_n_test_check_final_2022_6_vec_30xx_cutoff0.6/all_data/*.py
+ 1969  ls ~/program/torch/Graph_PDbind_net/all_finished/all_pdb_all_n_test_check_final_2022_6_vec_30xx_cutoff0.6/all_data/split_temT.py .
+ 1970  cp -r ~/program/torch/Graph_PDbind_net/all_finished/all_pdb_all_n_test_check_final_2022_6_vec_30xx_cutoff0.6/all_data/split_temT.py .
+ 1971  ls
+ 1972  vi split_temT.py 
+ 1973  wc all_select_uniq.txt 
+ 1974  vi split_temT.py 
+ 1975  python split_temT.py 
+ 1976  ls
+ 1977  ls ../test_pocket_save/
+ 1978  vi ../test_pocket_save/run_all_pos.bash 
+ 1979  vi ../test_pocket_save/run_all.bash 
+ 1980  cp -r  ../test_pocket_save/run_all_pos.bash  .
+ 1981  cd ../test_pocket_save/
+ 1982  ls
+ 1983  vi read_smi_protein_neg_nnn.py
+ 1984  cp -r aa_vec_dic.npy  ../complex/
+ 1985  ls
+ 1986  ls *.py
+ 1987  grep list_f *.py
+ 1988  cp -r read_smi_protein_nnn.py  ../complex/
+ 1989  cd ../complex/
+ 1990  vi read_smi_protein_nnn.py 
+ 1991  vi run_all_pos.bash 
+ 1992  bash run_all_pos.bash 
+ 1993  vi run_all_pos.bash 
+ 1994  bash run_all_pos.bash 
+ 1995  vi run_all_pos.bash 
+ 1996  bash run_all_pos.bash 
+ 1997  vi run_all_pos.bash 
+ 1998  vi read_smi_protein_nnn.py 
+ 1999  vi run_all_pos.bash 
+ 2000  conda activate GraphDTA
+ 2001  cd work_package
+ 2002  ls
+ 2003  cd PP_data/
+ 2004  ls
+ 2005  cd 3Dcomplex/
+ 2006  ls
+ 2007  cd complex/
+ 2008  ls
+ 2009  vi all_select_uniq.txt 
+ 2010  ls
+ 2011  vi split_temT.py 
+ 2012  vi all_select_uniq.txt 
+ 2013  ls
+ 2014  rm temT_*.txt
+ 2015  ls
+ 2016  python split_temT.py 
+ 2017  ls
+ 2018  ls *.log
+ 2019  rm *.log
+ 2020  ls 
+ 2021  cat nohup.out 
+ 2022  rm nohup.out 
+ 2023  nohup bash run_all_pos.bash &
+ 2024  kill -9 54695
+ 2025  rm *.log
+ 2026  ls
+ 2027  conda activate GraphDTA
+ 2028  ls
+ 2029  nohup bash run_all_pos.bash  &
+ 2030  top
+ 2031  ls
+ 2032  ls *.log
+ 2033  cat outT_10.log 
+ 2034  ls 3u9g_2*
+ 2035  history | grep for
+ 2036  rm select.txt 
+ 2037  for i in {1..9};do  ls  $i*'_poc.pdb' >> select.txt  ; echo $i; done
+ 2038  vi select.txt 
+ 2039  vi select_uniq.txt 
+ 2040  history | grep select
+ 2041  history | grep awk
+ 2042  awk -F "_"  '{print $1"_"$2}'  select.txt | sort | uniq > select_uniq1.txt
+ 2043  wc select_uniq1.txt 
+ 2044  mv select_uniq1.txt  select_uniq.txt 
+ 2045  history | grep compar
+ 2046  wc all_select_uniq.txt 
+ 2047  history > command.txt

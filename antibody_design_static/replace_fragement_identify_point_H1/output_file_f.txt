@@ -1,0 +1,243 @@
+> id_5766
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFTSYD  8
+> id_5426
+Query  1  GYIFTSYD  8
+Sbjct  1  GYIFTSYS  8
+> id_5427
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTSY  7
+> id_5425
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTSY  7
+> id_5420
+Query  1  GYIFTSYD  8
+Sbjct  1  GYIFTNYN  8
+> id_5428
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTSY  7
+> id_5826
+Query  1  GYIFTSYD  8
+Sbjct  1  GYVFSTYD  8
+> id_5829
+Query  1  GYIFTSY  7
+Sbjct  1  GYVFTSY  7
+> id_5781
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFTTYD  8
+> id_5731
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFTNYD  8
+> id_5660
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFSSYD  8
+> id_5772
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFTSYN  8
+> id_5408
+Query  1  GYIFTSYD  8
+Sbjct  1  GYIFTDYE  8
+> id_5368
+Query  1  GYIFTSYD  8
+Sbjct  1  GYAFTSYN  8
+> id_5410
+Query  1  GYIFTSYD  8
+Sbjct  1  GYIFTDYN  8
+> id_5423
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTSH  7
+> id_5406
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFSSY  7
+> id_5429
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTTY  7
+> id_5605
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFASYD  8
+> id_5421
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTNY  7
+> id_5569
+Query  1  GYIFTSYD  8
+Sbjct  1  GYSFTTYD  8
+> id_5419
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTNY  7
+> id_5422
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTSH  7
+> id_5806
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTLTSYD  8
+> id_3784
+Query  1  GYIFTSYD  8
+Sbjct  1  GFIFSSYE  8
+> id_5414
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTEY  7
+> id_5409
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTDY  7
+> id_5415
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTEY  7
+> id_3781
+Query  1  GYIFTSYD  8
+Sbjct  1  GFIFSRYD  8
+> id_5828
+Query  1  GYIFTSY  7
+Sbjct  1  GYVFTNY  7
+> id_5411
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTDY  7
+> id_5774
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFTSYS  8
+> id_5773
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTSY  7
+> id_5765
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTSY  7
+> id_5771
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTSY  7
+> id_5769
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTSY  7
+> id_5775
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTSY  7
+> id_5367
+Query  1  GYIFTSY  7
+Sbjct  1  GYAFTSY  7
+> id_5776
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTSY  7
+> id_5621
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFISYD  8
+> id_5777
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTSY  7
+> id_5768
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTSY  7
+> id_5770
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTSY  7
+> id_5416
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTGY  7
+> id_5412
+Query  1  GYIFTSY  7
+Sbjct  1  GYIFTDY  7
+> id_5732
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFTNYE  8
+> id_5424
+Query  1  GYIFTS  6
+Sbjct  1  GYIFTS  6
+> id_5737
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFTNYN  8
+> id_5767
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTSY  7
+> id_5778
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTSY  7
+> id_5632
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFNNYD  8
+> id_5453
+Query  1  GYIFTSY  7
+Sbjct  1  GYMFTNY  7
+> id_5662
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFSSYN  8
+> id_5827
+Query  1  GYIFTSY  7
+Sbjct  1  GYVFTDY  7
+> id_3786
+Query  1  GYIFTSYD  8
+Sbjct  1  GFIFSSYS  8
+> id_5565
+Query  1  GYIFTSYD  8
+Sbjct  1  GYSFTSYS  8
+> id_3783
+Query  1  GYIFTSY  7
+Sbjct  1  GFIFSSY  7
+> id_5678
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFTDFD  8
+> id_3785
+Query  1  GYIFTSY  7
+Sbjct  1  GFIFSSY  7
+> id_5566
+Query  1  GYIFTSY  7
+Sbjct  1  GYSFTSY  7
+> id_5563
+Query  1  GYIFTSY  7
+Sbjct  1  GYSFTSY  7
+> id_5531
+Query  1  GYIFTSYD  8
+Sbjct  1  GYSFTAYN  8
+> id_5564
+Query  1  GYIFTSY  7
+Sbjct  1  GYSFTSY  7
+> id_5606
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFASYN  8
+> id_3539
+Query  1  GYIFTSYD  8
+Sbjct  1  GAIFSTYD  8
+> id_5524
+Query  1  GYIFTSYD  8
+Sbjct  1  GYSFSSYN  8
+> id_5568
+Query  1  GYIFTSY  7
+Sbjct  1  GYSFTSY  7
+> id_5567
+Query  1  GYIFTSY  7
+Sbjct  1  GYSFTSY  7
+> id_5692
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFTDYE  8
+> id_5673
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFTAYS  8
+> id_5672
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTAY  7
+> id_5783
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTTY  7
+> id_5736
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFTNYK  8
+> id_5364
+Query  1  GYIFTSYD  8
+Sbjct  1  GYAFTNYK  8
+> id_5780
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTTY  7
+> id_5696
+Query  1  GYIFTSYD  8
+Sbjct  1  GYTFTDYN  8
+> id_5674
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTAY  7
+> id_5784
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTTY  7
+> id_5785
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTTY  7
+> id_5730
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTNY  7
+> id_5786
+Query  1  GYIFTSY  7
+Sbjct  1  GYTFTTY  7

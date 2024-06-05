@@ -1,0 +1,3 @@
+> id_3636
+Query  2  GDRLRSYY  9
+Sbjct  1  GDSMSSYY  8

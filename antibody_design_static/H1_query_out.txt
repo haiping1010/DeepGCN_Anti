@@ -1,0 +1,1025 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: all_CDR_seq_uniq.fasta
+           13,006 sequences; 130,241 total letters
+
+
+
+Query= H1
+
+Length=9
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  id_5766                                                             18.1    0.41 
+  id_5426                                                             17.7    0.56 
+  id_5427                                                             17.7    0.64 
+  id_5425                                                             17.3    0.66 
+  id_5420                                                             17.3    0.71 
+  id_5428                                                             17.3    0.74 
+  id_5826                                                             17.3    0.86 
+  id_5829                                                             17.3    0.86 
+  id_5781                                                             16.9    0.90 
+  id_5731                                                             16.9    0.95 
+  id_5660                                                             16.9    1.0  
+  id_5772                                                             16.9    1.2  
+  id_5408                                                             16.5    1.2  
+  id_5368                                                             16.5    1.2  
+  id_5410                                                             16.5    1.3  
+  id_5423                                                             16.5    1.3  
+  id_5406                                                             16.5    1.4  
+  id_5429                                                             16.5    1.4  
+  id_5605                                                             16.5    1.4  
+  id_5421                                                             16.5    1.4  
+  id_5569                                                             16.5    1.5  
+  id_5419                                                             16.5    1.5  
+  id_5422                                                             16.5    1.5  
+  id_5806                                                             16.2    1.5  
+  id_3784                                                             16.2    1.6  
+  id_5414                                                             16.2    1.7  
+  id_5409                                                             16.2    1.9  
+  id_5415                                                             16.2    1.9  
+  id_3781                                                             16.2    1.9  
+  id_5828                                                             16.2    2.0  
+  id_5411                                                             16.2    2.0  
+  id_5774                                                             15.8    2.0  
+  id_5773                                                             15.8    2.1  
+  id_5765                                                             15.8    2.1  
+  id_5771                                                             15.8    2.2  
+  id_5769                                                             15.8    2.2  
+  id_5775                                                             15.8    2.2  
+  id_5367                                                             15.8    2.2  
+  id_5776                                                             15.8    2.2  
+  id_5621                                                             15.8    2.2  
+  id_5777                                                             15.8    2.3  
+  id_5768                                                             15.8    2.3  
+  id_5770                                                             15.8    2.3  
+  id_5416                                                             15.8    2.3  
+  id_5412                                                             15.8    2.4  
+  id_5732                                                             15.8    2.4  
+  id_5424                                                             15.8    2.4  
+  id_5737                                                             15.8    2.4  
+  id_5767                                                             15.8    2.5  
+  id_5778                                                             15.8    2.8  
+  id_5632                                                             15.4    2.9  
+  id_5453                                                             15.4    2.9  
+  id_5662                                                             15.4    3.1  
+  id_5827                                                             15.4    3.5  
+  id_3786                                                             15.4    3.7  
+  id_5565                                                             15.4    3.8  
+  id_3783                                                             15.4    3.9  
+  id_5678                                                             15.4    4.6  
+  id_3785                                                             15.4    5.0  
+  id_5566                                                             15.4    5.1  
+  id_5563                                                             15.4    5.1  
+  id_5531                                                             15.0    5.2  
+  id_5564                                                             15.0    5.5  
+  id_5606                                                             15.0    6.0  
+  id_3539                                                             15.0    6.1  
+  id_5524                                                             15.0    6.8  
+  id_5568                                                             15.0    6.9  
+  id_5567                                                             15.0    7.0  
+  id_5692                                                             15.0    7.2  
+  id_5673                                                             15.0    7.2  
+  id_5672                                                             15.0    7.2  
+  id_5783                                                             15.0    8.0  
+  id_5736                                                             15.0    8.2  
+  id_5364                                                             15.0    8.5  
+  id_5780                                                             15.0    8.6  
+  id_5696                                                             15.0    8.8  
+  id_5674                                                             15.0    8.8  
+  id_5784                                                             15.0    9.1  
+  id_5785                                                             15.0    9.3  
+  id_5730                                                             14.6    9.5  
+  id_5786                                                             14.6    10.0 
+
+
+> id_5766
+Length=8
+
+ Score = 18.1 bits (35),  Expect = 0.41, Method: Compositional matrix adjust.
+ Identities = 7/8 (88%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FTSYD
+Sbjct  1  GYTFTSYD  8
+
+
+> id_5426
+Length=8
+
+ Score = 17.7 bits (34),  Expect = 0.56, Method: Compositional matrix adjust.
+ Identities = 7/8 (88%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GYIFTSY 
+Sbjct  1  GYIFTSYS  8
+
+
+> id_5427
+Length=8
+
+ Score = 17.7 bits (34),  Expect = 0.64, Method: Compositional matrix adjust.
+ Identities = 7/7 (100%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFTSY
+Sbjct  1  GYIFTSY  7
+
+
+> id_5425
+Length=8
+
+ Score = 17.3 bits (33),  Expect = 0.66, Method: Compositional matrix adjust.
+ Identities = 7/7 (100%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFTSY
+Sbjct  1  GYIFTSY  7
+
+
+> id_5420
+Length=8
+
+ Score = 17.3 bits (33),  Expect = 0.71, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 8/8 (100%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GYIFT+Y+
+Sbjct  1  GYIFTNYN  8
+
+
+> id_5428
+Length=8
+
+ Score = 17.3 bits (33),  Expect = 0.74, Method: Compositional matrix adjust.
+ Identities = 7/7 (100%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFTSY
+Sbjct  1  GYIFTSY  7
+
+
+> id_5826
+Length=8
+
+ Score = 17.3 bits (33),  Expect = 0.86, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 8/8 (100%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY+F++YD
+Sbjct  1  GYVFSTYD  8
+
+
+> id_5829
+Length=8
+
+ Score = 17.3 bits (33),  Expect = 0.86, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY+FTSY
+Sbjct  1  GYVFTSY  7
+
+
+> id_5781
+Length=8
+
+ Score = 16.9 bits (32),  Expect = 0.90, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FT+YD
+Sbjct  1  GYTFTTYD  8
+
+
+> id_5731
+Length=8
+
+ Score = 16.9 bits (32),  Expect = 0.95, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FT+YD
+Sbjct  1  GYTFTNYD  8
+
+
+> id_5660
+Length=8
+
+ Score = 16.9 bits (32),  Expect = 1.0, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY F+SYD
+Sbjct  1  GYTFSSYD  8
+
+
+> id_5772
+Length=8
+
+ Score = 16.9 bits (32),  Expect = 1.2, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FTSY+
+Sbjct  1  GYTFTSYN  8
+
+
+> id_5408
+Length=8
+
+ Score = 16.5 bits (31),  Expect = 1.2, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GYIFT Y+
+Sbjct  1  GYIFTDYE  8
+
+
+> id_5368
+Length=8
+
+ Score = 16.5 bits (31),  Expect = 1.2, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FTSY+
+Sbjct  1  GYAFTSYN  8
+
+
+> id_5410
+Length=8
+
+ Score = 16.5 bits (31),  Expect = 1.3, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GYIFT Y+
+Sbjct  1  GYIFTDYN  8
+
+
+> id_5423
+Length=8
+
+ Score = 16.5 bits (31),  Expect = 1.3, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFTS+
+Sbjct  1  GYIFTSH  7
+
+
+> id_5406
+Length=8
+
+ Score = 16.5 bits (31),  Expect = 1.4, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIF+SY
+Sbjct  1  GYIFSSY  7
+
+
+> id_5429
+Length=8
+
+ Score = 16.5 bits (31),  Expect = 1.4, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFT+Y
+Sbjct  1  GYIFTTY  7
+
+
+> id_5605
+Length=8
+
+ Score = 16.5 bits (31),  Expect = 1.4, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY F SYD
+Sbjct  1  GYTFASYD  8
+
+
+> id_5421
+Length=8
+
+ Score = 16.5 bits (31),  Expect = 1.4, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFT+Y
+Sbjct  1  GYIFTNY  7
+
+
+> id_5569
+Length=8
+
+ Score = 16.5 bits (31),  Expect = 1.5, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FT+YD
+Sbjct  1  GYSFTTYD  8
+
+
+> id_5419
+Length=8
+
+ Score = 16.5 bits (31),  Expect = 1.5, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFT+Y
+Sbjct  1  GYIFTNY  7
+
+
+> id_5422
+Length=8
+
+ Score = 16.5 bits (31),  Expect = 1.5, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFTS+
+Sbjct  1  GYIFTSH  7
+
+
+> id_5806
+Length=8
+
+ Score = 16.2 bits (30),  Expect = 1.5, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY  TSYD
+Sbjct  1  GYTLTSYD  8
+
+
+> id_3784
+Length=8
+
+ Score = 16.2 bits (30),  Expect = 1.6, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 8/8 (100%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          G+IF+SY+
+Sbjct  1  GFIFSSYE  8
+
+
+> id_5414
+Length=8
+
+ Score = 16.2 bits (30),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFT Y
+Sbjct  1  GYIFTEY  7
+
+
+> id_5409
+Length=8
+
+ Score = 16.2 bits (30),  Expect = 1.9, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFT Y
+Sbjct  1  GYIFTDY  7
+
+
+> id_5415
+Length=8
+
+ Score = 16.2 bits (30),  Expect = 1.9, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFT Y
+Sbjct  1  GYIFTEY  7
+
+
+> id_3781
+Length=8
+
+ Score = 16.2 bits (30),  Expect = 1.9, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          G+IF+ YD
+Sbjct  1  GFIFSRYD  8
+
+
+> id_5828
+Length=8
+
+ Score = 16.2 bits (30),  Expect = 2.0, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY+FT+Y
+Sbjct  1  GYVFTNY  7
+
+
+> id_5411
+Length=8
+
+ Score = 16.2 bits (30),  Expect = 2.0, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFT Y
+Sbjct  1  GYIFTDY  7
+
+
+> id_5774
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.0, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FTSY 
+Sbjct  1  GYTFTSYS  8
+
+
+> id_5773
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.1, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYTFTSY  7
+
+
+> id_5765
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.1, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYTFTSY  7
+
+
+> id_5771
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYTFTSY  7
+
+
+> id_5769
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYTFTSY  7
+
+
+> id_5775
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYTFTSY  7
+
+
+> id_5367
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYAFTSY  7
+
+
+> id_5776
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYTFTSY  7
+
+
+> id_5621
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY F SYD
+Sbjct  1  GYTFISYD  8
+
+
+> id_5777
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.3, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYTFTSY  7
+
+
+> id_5768
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.3, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYTFTSY  7
+
+
+> id_5770
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.3, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYTFTSY  7
+
+
+> id_5416
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.3, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFT Y
+Sbjct  1  GYIFTGY  7
+
+
+> id_5412
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.4, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GYIFT Y
+Sbjct  1  GYIFTDY  7
+
+
+> id_5732
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.4, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FT+Y+
+Sbjct  1  GYTFTNYE  8
+
+
+> id_5424
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.4, Method: Compositional matrix adjust.
+ Identities = 6/6 (100%), Positives = 6/6 (100%), Gaps = 0/6 (0%)
+
+Query  1  GYIFTS  6
+          GYIFTS
+Sbjct  1  GYIFTS  6
+
+
+> id_5737
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.4, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FT+Y+
+Sbjct  1  GYTFTNYN  8
+
+
+> id_5767
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.5, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYTFTSY  7
+
+
+> id_5778
+Length=8
+
+ Score = 15.8 bits (29),  Expect = 2.8, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYTFTSY  7
+
+
+> id_5632
+Length=8
+
+ Score = 15.4 bits (28),  Expect = 2.9, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY F +YD
+Sbjct  1  GYTFNNYD  8
+
+
+> id_5453
+Length=8
+
+ Score = 15.4 bits (28),  Expect = 2.9, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY+FT+Y
+Sbjct  1  GYMFTNY  7
+
+
+> id_5662
+Length=8
+
+ Score = 15.4 bits (28),  Expect = 3.1, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY F+SY+
+Sbjct  1  GYTFSSYN  8
+
+
+> id_5827
+Length=8
+
+ Score = 15.4 bits (28),  Expect = 3.5, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY+FT Y
+Sbjct  1  GYVFTDY  7
+
+
+> id_3786
+Length=8
+
+ Score = 15.4 bits (28),  Expect = 3.7, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          G+IF+SY 
+Sbjct  1  GFIFSSYS  8
+
+
+> id_5565
+Length=8
+
+ Score = 15.4 bits (28),  Expect = 3.8, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FTSY 
+Sbjct  1  GYSFTSYS  8
+
+
+> id_3783
+Length=8
+
+ Score = 15.4 bits (28),  Expect = 3.9, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          G+IF+SY
+Sbjct  1  GFIFSSY  7
+
+
+> id_5678
+Length=8
+
+ Score = 15.4 bits (28),  Expect = 4.6, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FT +D
+Sbjct  1  GYTFTDFD  8
+
+
+> id_3785
+Length=8
+
+ Score = 15.4 bits (28),  Expect = 5.0, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 7/7 (100%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          G+IF+SY
+Sbjct  1  GFIFSSY  7
+
+
+> id_5566
+Length=8
+
+ Score = 15.4 bits (28),  Expect = 5.1, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYSFTSY  7
+
+
+> id_5563
+Length=8
+
+ Score = 15.4 bits (28),  Expect = 5.1, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYSFTSY  7
+
+
+> id_5531
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 5.2, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FT+Y+
+Sbjct  1  GYSFTAYN  8
+
+
+> id_5564
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 5.5, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYSFTSY  7
+
+
+> id_5606
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 6.0, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY F SY+
+Sbjct  1  GYTFASYN  8
+
+
+> id_3539
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 6.1, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          G IF++YD
+Sbjct  1  GAIFSTYD  8
+
+
+> id_5524
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY F+SY+
+Sbjct  1  GYSFSSYN  8
+
+
+> id_5568
+Length=9
+
+ Score = 15.0 bits (27),  Expect = 6.9, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYSFTSY  7
+
+
+> id_5567
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 7.0, Method: Compositional matrix adjust.
+ Identities = 6/7 (86%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FTSY
+Sbjct  1  GYSFTSY  7
+
+
+> id_5692
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 7.2, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FT Y+
+Sbjct  1  GYTFTDYE  8
+
+
+> id_5673
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 7.2, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FT+Y 
+Sbjct  1  GYTFTAYS  8
+
+
+> id_5672
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 7.2, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FT+Y
+Sbjct  1  GYTFTAY  7
+
+
+> id_5783
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 8.0, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FT+Y
+Sbjct  1  GYTFTTY  7
+
+
+> id_5736
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 8.2, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FT+Y 
+Sbjct  1  GYTFTNYK  8
+
+
+> id_5364
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 8.5, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FT+Y 
+Sbjct  1  GYAFTNYK  8
+
+
+> id_5780
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 8.6, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FT+Y
+Sbjct  1  GYTFTTY  7
+
+
+> id_5696
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 8.8, Method: Compositional matrix adjust.
+ Identities = 5/8 (63%), Positives = 6/8 (75%), Gaps = 0/8 (0%)
+
+Query  1  GYIFTSYD  8
+          GY FT Y+
+Sbjct  1  GYTFTDYN  8
+
+
+> id_5674
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 8.8, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FT+Y
+Sbjct  1  GYTFTAY  7
+
+
+> id_5784
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 9.1, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FT+Y
+Sbjct  1  GYTFTTY  7
+
+
+> id_5785
+Length=8
+
+ Score = 15.0 bits (27),  Expect = 9.3, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FT+Y
+Sbjct  1  GYTFTTY  7
+
+
+> id_5730
+Length=8
+
+ Score = 14.6 bits (26),  Expect = 9.5, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FT+Y
+Sbjct  1  GYTFTNY  7
+
+
+> id_5786
+Length=8
+
+ Score = 14.6 bits (26),  Expect = 10.0, Method: Compositional matrix adjust.
+ Identities = 5/7 (71%), Positives = 6/7 (86%), Gaps = 0/7 (0%)
+
+Query  1  GYIFTSY  7
+          GY FT+Y
+Sbjct  1  GYTFTTY  7
+
+
+
+Lambda      K        H        a         alpha
+   0.330    0.155    0.484    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1172169
+
+
+  Database: all_CDR_seq_uniq.fasta
+    Posted date:  Dec 27, 2023  2:52 AM
+  Number of letters in database: 130,241
+  Number of sequences in database:  13,006
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

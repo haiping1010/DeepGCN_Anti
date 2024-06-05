@@ -1,0 +1,14 @@
+Converting SMILES to graph: 1/434
+8sb0A_antigen.pdb  6mqcAB_antibody.pdb
+Converting SMILES to graph: 2/434
+8sb0A_antigen.pdb  6vyvKO_antibody.pdb
+Converting SMILES to graph: 3/434
+8sb1A_antigen.pdb  8eqbA_antibody.pdb
+Traceback (most recent call last):
+  File "read_smi_protein_neg_nnn.py", line 204, in <module>
+    train_data = TestbedDataset(root='data1', dataset='L_P_train_neg_'+idx, xd=arr_name, pocket1_graph=pocket1_graph, y=train_Y, pocket2_graph=pocket2_graph)
+  File "read_smi_protein_neg_nnn.py", line 136, in __init__
+    self.process(xd,pocket1_graph,y,pocket2_graph)
+  File "read_smi_protein_neg_nnn.py", line 191, in process
+    edge_index=torch.LongTensor(edge_index1).transpose(1, 0))
+IndexError: Dimension out of range (expected to be in range of [-1, 0], but got 1)

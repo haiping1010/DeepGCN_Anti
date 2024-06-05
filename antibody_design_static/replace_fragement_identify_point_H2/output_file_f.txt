@@ -1,0 +1,90 @@
+> id_8678
+Query  1  MNPDSGDT  8
+Sbjct  1  MNPKSGDT  8
+> id_8684
+Query  1  MNPDSGDT  8
+Sbjct  1  MNPNSGNT  8
+> id_6670
+Query  1  MNPDSGDT  8
+Sbjct  1  INPNSGDT  8
+> id_6645
+Query  1  MNPDSGDT  8
+Sbjct  1  INPKSGDT  8
+> id_6636
+Query  1  MNPDSGDT  8
+Sbjct  1  INPHSGDT  8
+> id_6720
+Query  1  MNPDSGDT  8
+Sbjct  1  INPSSGDT  8
+> id_6699
+Query  1  MNPDSGDT  8
+Sbjct  1  INPRSGDT  8
+> id_6677
+Query  1  MNPDSGDT  8
+Sbjct  1  INPNTGDT  8
+> id_6630
+Query  1  MNPDSGDT  8
+Sbjct  1  INPGSGDT  8
+> id_8676
+Query  1  MNPDSGDT  8
+Sbjct  1  MNPISGNT  8
+> id_8693
+Query  1  MNPDSGDT  8
+Sbjct  1  MNPYSGNT  8
+> id_6667
+Query  1  MNPDSGDT  8
+Sbjct  1  INPNQGDT  8
+> id_6659
+Query  1  MNPDSGDT  8
+Sbjct  1  INPNNGDT  8
+> id_8679
+Query  1  MNPDSGDT  8
+Sbjct  1  MNPKTGNT  8
+> id_8683
+Query  1  MNPDSGDT  8
+Sbjct  1  MNPNRGNT  8
+> id_6726
+Query  1  MNPDSGDT  8
+Sbjct  1  INPSTGDT  8
+> id_6325
+Query  1  MNPDSGDT  8
+Sbjct  1  IHPNSGDT  8
+> id_6048
+Query  1  MNPDSGDT  8
+Sbjct  1  IDPDEGDT  8
+> id_6701
+Query  1  MNPDSGDT  8
+Sbjct  1  INPRTGDT  8
+> id_6651
+Query  1  MNPDSGDT  8
+Sbjct  1  INPNGGDT  8
+> id_8772
+Query  1  MNPDSGDT  8
+Sbjct  1  MSPNSGNT  8
+> id_6698
+Query  1  MNPDSGDT  8
+Sbjct  1  INPRSGDS  8
+> id_6711
+Query  1  MNPDSGDT  8
+Sbjct  1  INPSNGDT  8
+> id_6673
+Query  1  MNPDSGDT  8
+Sbjct  1  INPNSGRT  8
+> id_6611
+Query  1  MNPDSGDT  8
+Sbjct  1  INPDTGGT  8
+> id_6694
+Query  1  MNPDSGDT  8
+Sbjct  1  INPRNGDT  8
+> id_6674
+Query  1  MNPDSGDT  8
+Sbjct  1  INPNSGTT  8
+> id_6656
+Query  1  MNPDSGDT  8
+Sbjct  1  INPNIGDT  8
+> id_6672
+Query  1  MNPDSGDT  8
+Sbjct  1  INPNSGGT  8
+> id_8810
+Query  1  MNPDSGDT  8
+Sbjct  1  MYPDNGDS  8
