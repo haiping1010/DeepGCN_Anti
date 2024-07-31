@@ -12,9 +12,9 @@
 
 
 
-### MD_antibody_antigen_example.zip contains the scripts for MD simulation and metadynamics simulation
+### The MD_antibody_antigen_example.zip contains the scripts for MD simulation and metadynamics simulation
 
-### potential2_Anti_new_allatom_code.zip contains the script to construct the static potential.
+### The potential2_Anti_new_allatom_code.zip contains the script to construct the static potential.
 
 
 If you encounter any questions or issues during the usage, feel free to contact Haiping Zhang at hp.zhang@siat.ac.cn.
