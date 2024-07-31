@@ -6,8 +6,15 @@
 4. antibody_design_static/static_eval  this folder is use constructed static potential do the screening with 6Å as cutoff for obtaining the interface residue pairs, and only those added up parwised static potential have relative low value will keep. antibody_design_static/static_eval  this folder is use constructed static potential do the screening with 6Å as cutoff for obtaining the interface residue pairs, and only those added up parwised static potential have relative low value will keep. Similarly, static_eval_cutoff10 folder is use constructed static potential do the screening with 10Å as cutoff for obtaining the interface residue pairs.
 
 ###The complex_train contains the code and script for training the DeepGCN_anti.
+1.read_smi_protein_nnn.py and read_smi_protein_neg_nnn.py are used to prepare the positive and negative input data, the usage of them can be find in run_all_neg.bash and run_all_pos.bash
+2. training_nn3_PP.py is the script to run the training，models/gcn.py contains model code
+3. full_model_out1000.model is the final obtained model.
+
 
 
 ###MD_antibody_antigen_example.zip contains the scripts for MD simulation and metadynamics simulation
 
 ###potential2_Anti_new_allatom_code.zip contains the script to construct the static potential.
+
+
+If you encounter any questions or issues during the usage, feel free to contact Haiping Zhang at hp.zhang@siat.ac.cn.
